@@ -38,6 +38,10 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 ## Day 11: June 12, Tuesday 
 **Today's Progress**: Not very productive today, just went to some CSS Grid in FCC and then practice algorithm with cs50
 
+## Day 12: June 13, Wednesday 
+**Today's Progress**: Had a hard time understanding and setting up a ssh, but tommorow will deep dive into it because of permission problem with github.
+Finished the CSS Grid in FCC. Submitted the pset3 music in cs50.
+
 
 
 <!-- ## Day 00: Month 00, Whatday 
