@@ -73,6 +73,9 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 22: June 23, Saturday 
 **Today's Progress**: Completed tribute html structure, planning and making a layout design. Next is CSS.
 
+## Day 23: June 24, Sunday 
+**Today's Progress**: Not much coding today, just read YDKJS, finished some JS in FCC. Starting tomorrow I'll try apply some CSS I learned from other developers to my FCC tribute project.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
