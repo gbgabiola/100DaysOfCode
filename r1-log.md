@@ -104,7 +104,8 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 33: July 12, Thursday 
 **Today's Progress**: Applied logical Architecture and BEM and SAAS to my current project. Started using relative units instead of absolute units. Studied box-model, types, positioning, stack, and how CSS is being parsed.
 
-
+## Day 34: July 13, Friday 
+**Today's Progress**: Practing SASS on my current project to organize and make the code maintainable. And I deep dived with the backtracking, branching and using Git for Collaboration. Started Reading "A Smarter Way to Learn".
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
