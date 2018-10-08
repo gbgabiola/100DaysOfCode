@@ -98,6 +98,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 31: July 10, Tuesday 
 **Today's Progress**: I learned a lot of CSS properties and applied it on the Finished Omnifood project. Applied almost all the basic to advanced properties to the project, but the problem now is how to retain all those knowledge I learned.
 
+## Day 32: July 11, Wednesday 
+**Today's Progress**: Submit and upload the tribute page for the mean time. I will rewrite it again later on, after I grasp a good css design. Practicing css design, having a hard time organizing my css codes.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
