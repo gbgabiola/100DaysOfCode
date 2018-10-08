@@ -67,7 +67,8 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 20: June 21, SomeDay 
 **Today's Progress**: Continued the psets in cs50 and working out algorithms and data structure. Done some js in FCC. having a hard time with the pset4 and pset5 of cs50. Maybe I'll to fix it again tomorrow, then some of my friends recommended to read Head First HTML5 Programming maybe I'll give it a try.
 
-
+## Day 21: June 22, Friday 
+**Today's Progress**: I started a small project which is a tribute page to Jesus Christ and The Bible. Just HTML for now for the body structure. Looking others design for design inspiration purposes, it's really hard when you are not creative.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
