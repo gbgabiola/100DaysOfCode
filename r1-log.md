@@ -64,7 +64,7 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 19: June 20, Wednesday 
 **Today's Progress**: Review the psets in cs50 and refactor the code, still using Clang. Continue the js in FCC but slowing the pace to absorb most of it. Sometimes when we have the time to study, we have this adrenaline to finish all the courses, books and tutorials in short span of time, while I'm reading some articles and motivational experience I read that it's best to slow down the pace when learning so our brain will have the time to process all the learnings. Planning to start using the spaced repition software soon after I set it up, so I can retain most of the books and courses I've finish.
 
-## Day 20: June 21, SomeDay 
+## Day 20: June 21, Thursday
 **Today's Progress**: Continued the psets in cs50 and working out algorithms and data structure. Done some js in FCC. having a hard time with the pset4 and pset5 of cs50. Maybe I'll to fix it again tomorrow, then some of my friends recommended to read Head First HTML5 Programming maybe I'll give it a try.
 
 ## Day 21: June 22, Friday 
@@ -81,6 +81,9 @@ Thinking and planning for my projects and display it in github for a future refe
 
 ## Day 25 and 26: June 27, Tuesday 
 **Today's Progress**: I was not able to code because I'm fixing my setup with my vscode, integrated terminal, and nvm, having trouble with my WSL setup. any suggestion?
+
+## Day 27: June 28, Thursday 
+**Today's Progress**: Finished the basicJS in FCC by doing it in a slow pace.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
