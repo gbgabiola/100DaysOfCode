@@ -58,7 +58,8 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 17: June 18, Monday
 **Today's Progress**: Working with the pset of cs50 and basicJS in FCC. Continue reading YDKJS. Investing more with the concepts of programming and computer science is beneficial in the long run.
 
-
+## Day 18: June 19, Tuesday 
+**Today's Progress**: Read an article [How to get hired](https://sivers.org/gethired), [Memorizing a programming language using spaced repetition software](https://sivers.org/srs), and [Should you learn programming? Yes.](https://sivers.org/prog). Solving pset in cs50 using Clang.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
