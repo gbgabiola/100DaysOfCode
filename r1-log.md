@@ -85,6 +85,9 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 27: June 28, Thursday 
 **Today's Progress**: Finished the basicJS in FCC by doing it in a slow pace.
 
+## Day 28: June 29, Friday 
+**Today's Progress**: Started doing es6 in FCC. Read some course from simple programmer.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
