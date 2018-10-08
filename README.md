@@ -11,7 +11,7 @@ Credits to Alexander Kallaway as he created this [100DaysOfCode](https://github.
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| Oct. 01, 2018 | --- |
+| June 01, 2018 | --- |
 
 ## Contents
 

@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-The log of my #100DaysOfCode challenge. Started on [Oct 01, Monday, 2018].
+The log of my #100DaysOfCode challenge. Started on [June 01, Friday, 2018].
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
