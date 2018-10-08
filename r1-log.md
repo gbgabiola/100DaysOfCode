@@ -110,7 +110,8 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 35: July 14, Saturday 
 **Today's Progress**: Continue learning through the advanced css and sass udemy course, and read some chapters of "A Smarter Way to Learn javaScript" and did some interactive practices.
 
-
+## Day 36: July 15, Sunday 
+**Today's Progress**: Not much coding today, but continue to read "A Smarter Way to Learn javaScript" and did exercise 6.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
