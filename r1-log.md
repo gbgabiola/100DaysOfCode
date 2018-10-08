@@ -2,13 +2,6 @@
 
 The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 2018].
 
-<!-- ## Day 00: Month 00, Whatday 
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** [Sample App](http://www.example.com) -->
-
 ## Day 0: June 01, Friday
 **Today's Progress**: Setup my Development Environment, and made a repo for my progress [here](https://github.com/genesisgabiola/progress).
 
@@ -42,3 +35,14 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 ## Day 10: June 11, Monday 
 **Today's Progress**: Deep dive into algorithm with cs50 lesson 4, and finished CSS Flexbox in FCC, I realize there's a lot of things I need to learn even in CSS, planning to deep dive into advanced CSS within 100days
 
+## Day 11: June 12, Tuesday 
+**Today's Progress**: Not very productive today, just went to some CSS Grid in FCC and then practice algorithm with cs50
+
+
+
+<!-- ## Day 00: Month 00, Whatday 
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Sample App](http://www.example.com) -->
