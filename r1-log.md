@@ -61,6 +61,9 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 18: June 19, Tuesday 
 **Today's Progress**: Read an article [How to get hired](https://sivers.org/gethired), [Memorizing a programming language using spaced repetition software](https://sivers.org/srs), and [Should you learn programming? Yes.](https://sivers.org/prog). Solving pset in cs50 using Clang.
 
+## Day 19: June 20, Wednesday 
+**Today's Progress**: Review the psets in cs50 and refactor the code, still using Clang. Continue the js in FCC but slowing the pace to absorb most of it. Sometimes when we have the time to study, we have this adrenaline to finish all the courses, books and tutorials in short span of time, while I'm reading some articles and motivational experience I read that it's best to slow down the pace when learning so our brain will have the time to process all the learnings. Planning to start using the spaced repition software soon after I set it up, so I can retain most of the books and courses I've finish.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
