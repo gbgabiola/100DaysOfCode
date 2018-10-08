@@ -79,6 +79,9 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 24: June 25, Monday 
 **Today's Progress**: Not very productive day.. Done some js in FCC very slowly, almost consume all day in reading dev articles, and some design inspiration, instead of doing my works and projects I procrastinated again.. What to do?
 
+## Day 25 and 26: June 27, Tuesday 
+**Today's Progress**: I was not able to code because I'm fixing my setup with my vscode, integrated terminal, and nvm, having trouble with my WSL setup. any suggestion?
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
