@@ -38,3 +38,7 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 
 ## Day 9: June 10, Sunday 
 **Today's Progress**: Refreshed my algorthm skills with part3 of cs50, then finished the Responsive Web Design Principles track in FCC
+
+## Day 10: June 11, Monday 
+**Today's Progress**: Deep dive into algorithm with cs50 lesson 4, and finished CSS Flexbox in FCC, I realize there's a lot of things I need to learn even in CSS, planning to deep dive into advanced CSS within 100days
+
