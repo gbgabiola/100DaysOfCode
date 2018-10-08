@@ -95,6 +95,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 30: July 01, Sunday 
 **Today's Progress**: Using positioning border, container, fonts in my tribute project.
 
+## Day 31: July 10, Tuesday 
+**Today's Progress**: I learned a lot of CSS properties and applied it on the Finished Omnifood project. Applied almost all the basic to advanced properties to the project, but the problem now is how to retain all those knowledge I learned.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
