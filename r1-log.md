@@ -20,3 +20,6 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 
 ## Day 3: June 04, Monday 
 **Today's Progress**: Finished the lesson 2 of learn to Code html & CSS and Basic CSS in FCC. Read a blog [A bright future for GitHub](https://blog.github.com/2018-06-04-github-microsoft/)
+
+## Day 4: June 05, Tuesday 
+**Today's Progress**: Finished the learn to Code html & CSS lesson 3, and the Applied Visual Design part in FCC.
