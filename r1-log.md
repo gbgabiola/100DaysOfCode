@@ -45,6 +45,9 @@ Finished the CSS Grid in FCC. Submitted the pset3 music in cs50.
 ## Day 13: June 14, Thursday 
 **Today's Progress**: Read the Best Programming Practices of Udacity includes developing well-structured programs, naming convention, indentation and using comments for the readability of the code.
 
+## Day 14: June 15, Friday 
+**Today's Progress**: Study ssh more and integrating it to my git and github, as well as using the WSL bash into my vscode. Started javascript in FCC. Setting up ssh on my dev is very challenging, because I have WSL on my environment, I always get this error `Permission denied (publickey).
+
 
 
 <!-- ## Day 00: Month 00, Whatday 
