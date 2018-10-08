@@ -30,17 +30,20 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 **Today's Progress**: Not much coding today, just went in FCC challenges and finished the Applied Accessibility track.
 
 ## Day 9: June 10, Sunday 
-**Today's Progress**: Refreshed my algorthm skills with part3 of cs50, then finished the Responsive Web Design Principles track in FCC
+**Today's Progress**: Refreshed my algorthm skills with part3 of cs50, then finished the Responsive Web Design Principles track in FCC.
 
 ## Day 10: June 11, Monday 
-**Today's Progress**: Deep dive into algorithm with cs50 lesson 4, and finished CSS Flexbox in FCC, I realize there's a lot of things I need to learn even in CSS, planning to deep dive into advanced CSS within 100days
+**Today's Progress**: Deep dive into algorithm with cs50 lesson 4, and finished CSS Flexbox in FCC, I realize there's a lot of things I need to learn even in CSS, planning to deep dive into advanced CSS within 100days.
 
 ## Day 11: June 12, Tuesday 
-**Today's Progress**: Not very productive today, just went to some CSS Grid in FCC and then practice algorithm with cs50
+**Today's Progress**: Not very productive today, just went to some CSS Grid in FCC and then practice algorithm with cs50.
 
 ## Day 12: June 13, Wednesday 
 **Today's Progress**: Had a hard time understanding and setting up a ssh, but tommorow will deep dive into it because of permission problem with github.
 Finished the CSS Grid in FCC. Submitted the pset3 music in cs50.
+
+## Day 13: June 14, Thursday 
+**Today's Progress**: Read the Best Programming Practices of Udacity includes developing well-structured programs, naming convention, indentation and using comments for the readability of the code.
 
 
 
