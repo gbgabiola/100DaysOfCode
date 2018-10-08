@@ -33,3 +33,6 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 ## Day 7: June 08, Friday 
 **Today's Progress**: Finished the lecture 2 and pset2 in CS50. Deep dive even more with the concepts of programming using C. C language is really hard, but I think getting the basic concepts of programming in this language is giving you a better understanding of the general concepts.
 
+## Day 8: June 9 Saturday 
+**Today's Progress**: Not much coding today, just went in FCC challenges and finished the Applied Accessibility track.
+
