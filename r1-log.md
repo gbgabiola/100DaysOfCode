@@ -116,6 +116,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 37: July 16, Monday 
 **Today's Progress**: Done reading chapter 7 && 8 of "asmartwaytolearnjavascript" with the interactive exercise. Review some FCC's HTML, CSS and javaScript.
 
+## Day 38: July 17, Tuesday 
+**Today's Progress**: Done reading chapter 9 && 10 of "asmartwaytolearnjavascript" with the interactive exercise. Review again with some FCC's HTML, CSS and javaScript. And continue the "advanced CSS and SASS" course.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
