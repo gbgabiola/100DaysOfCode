@@ -27,3 +27,6 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 ## Day 5: June 06, Wednesday 
 **Today's Progress**: Finished the Lecture 0 edX CS50. Practice programming using pseudo code and explored Scratch programming.
 
+## Day 6: June 07, Thursday 
+**Today's Progress**:  Finished the lecture 1 and pset 1 in CS50. Interacted with the CS50 IDE using C language. Brushing up my understanding in foundational concepts of programming.
+
