@@ -122,6 +122,11 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 39: July 18, Wednesday 
 **Today's Progress**: Read the Chapter 11 to 13 of "asmartwaytolearnjavascript" with the interactice exercise. Continue a project with SASS.
 
+## Day 40: July 19, Thursday 
+**Today's Progress**: Read the "asmartwaytolearnjavascript" with the interactive exercise. And focused more in finishing the natours project.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
