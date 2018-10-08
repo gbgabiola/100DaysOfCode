@@ -36,3 +36,5 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 ## Day 8: June 9 Saturday 
 **Today's Progress**: Not much coding today, just went in FCC challenges and finished the Applied Accessibility track.
 
+## Day 9: June 10, Sunday 
+**Today's Progress**: Refreshed my algorthm skills with part3 of cs50, then finished the Responsive Web Design Principles track in FCC
