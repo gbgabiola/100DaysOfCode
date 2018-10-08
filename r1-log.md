@@ -76,6 +76,9 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 23: June 24, Sunday 
 **Today's Progress**: Not much coding today, just read YDKJS, finished some JS in FCC. Starting tomorrow I'll try apply some CSS I learned from other developers to my FCC tribute project.
 
+## Day 24: June 25, Monday 
+**Today's Progress**: Not very productive day.. Done some js in FCC very slowly, almost consume all day in reading dev articles, and some design inspiration, instead of doing my works and projects I procrastinated again.. What to do?
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
