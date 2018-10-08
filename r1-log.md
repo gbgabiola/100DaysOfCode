@@ -70,6 +70,9 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 21: June 22, Friday 
 **Today's Progress**: I started a small project which is a tribute page to Jesus Christ and The Bible. Just HTML for now for the body structure. Looking others design for design inspiration purposes, it's really hard when you are not creative.
 
+## Day 22: June 23, Saturday 
+**Today's Progress**: Completed tribute html structure, planning and making a layout design. Next is CSS.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
