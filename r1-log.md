@@ -92,6 +92,9 @@ Thinking and planning for my projects and display it in github for a future refe
 **Today's Progress**: Practiced some CSS design in my tribute project in FCC.  
 Designing is really hard, it can only be achieved through trial and error, by trying and applying it, so it's better than never.
 
+## Day 30: July 01, Sunday 
+**Today's Progress**: Using positioning border, container, fonts in my tribute project.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
