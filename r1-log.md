@@ -101,6 +101,11 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 32: July 11, Wednesday 
 **Today's Progress**: Submit and upload the tribute page for the mean time. I will rewrite it again later on, after I grasp a good css design. Practicing css design, having a hard time organizing my css codes.
 
+## Day 33: July 12, Thursday 
+**Today's Progress**: Applied logical Architecture and BEM and SAAS to my current project. Started using relative units instead of absolute units. Studied box-model, types, positioning, stack, and how CSS is being parsed.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
