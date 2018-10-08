@@ -23,3 +23,7 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 
 ## Day 4: June 05, Tuesday 
 **Today's Progress**: Finished the learn to Code html & CSS lesson 3, and the Applied Visual Design part in FCC.
+
+## Day 5: June 06, Wednesday 
+**Today's Progress**: Finished the Lecture 0 edX CS50. Practice programming using pseudo code and explored Scratch programming.
+
