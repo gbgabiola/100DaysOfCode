@@ -125,7 +125,8 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 40: July 19, Thursday 
 **Today's Progress**: Read the "asmartwaytolearnjavascript" with the interactive exercise. And focused more in finishing the natours project.
 
-
+## Day 41: July 20, Friday 
+**Today's Progress**: Done making the project responsive for big and smaller device since I used the desktop-first approach. Review the arrays keywords and methods through "asmartwaytolearnjavascript" with the interactive exercise.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
