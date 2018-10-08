@@ -107,6 +107,11 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 34: July 13, Friday 
 **Today's Progress**: Practing SASS on my current project to organize and make the code maintainable. And I deep dived with the backtracking, branching and using Git for Collaboration. Started Reading "A Smarter Way to Learn".
 
+## Day 35: July 14, Saturday 
+**Today's Progress**: Continue learning through the advanced css and sass udemy course, and read some chapters of "A Smarter Way to Learn javaScript" and did some interactive practices.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
