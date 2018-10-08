@@ -52,6 +52,11 @@ Finished the CSS Grid in FCC. Submitted the pset3 music in cs50.
 **Today's Progress**: Not much coding today, just read some related projects while doing some js challenge in FCC. 
 Thinking and planning for my projects and display it in github for a future reference, while learning more in depth.
 
+## Day 16: June 17, Sunday 
+**Today's Progress**: Continue the basicJS challenge in FCC and read the YDKJS Up and Going. Understanding the JS more.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
