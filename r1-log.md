@@ -55,6 +55,9 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 16: June 17, Sunday 
 **Today's Progress**: Continue the basicJS challenge in FCC and read the YDKJS Up and Going. Understanding the JS more.
 
+## Day 17: June 18, Monday
+**Today's Progress**: Working with the pset of cs50 and basicJS in FCC. Continue reading YDKJS. Investing more with the concepts of programming and computer science is beneficial in the long run.
+
 
 
 <!-- ## Day 00: Month 00, Whatday 
