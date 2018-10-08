@@ -88,6 +88,10 @@ Thinking and planning for my projects and display it in github for a future refe
 ## Day 28: June 29, Friday 
 **Today's Progress**: Started doing es6 in FCC. Read some course from simple programmer.
 
+## Day 29: June 30, Saturday 
+**Today's Progress**: Practiced some CSS design in my tribute project in FCC.  
+Designing is really hard, it can only be achieved through trial and error, by trying and applying it, so it's better than never.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
