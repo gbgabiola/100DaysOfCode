@@ -196,7 +196,8 @@ Losing motivation as a self-taught developer is normal, but you need to find the
 **Today's Progress**: I lost track of my progress because of unmotivation and procastination, but as a developer sometimes that's normal and needs to overcome it. I didn't stop learning while fixing my laptop, I still read some articles about best practices as a developer.  
 Another start of the month and I'll continue my progress without fail.
 
-
+## Day 66: October 01, Monday 
+**Today's Progress**: Started Introduction to javaScript on a online bootcamp. Set up my coding environment and integrated my github to the platform. Tackled the basic of the language.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
