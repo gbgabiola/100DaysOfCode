@@ -182,6 +182,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 61: August 13, Monday 
 **Today's Progress**: Finished chapter 4, organizing all my vision and goals, applying the quadrants matrix to determine the importance and urgency of each goals.
 
+## Day 62: August 14, Tuesday 
+**Today's Progress**: Changing the way how I approach in learning Plang, frameworks, and libraries. "The Complete Software Developer's Career Guide" Chapter 5 && 6 done. 
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
