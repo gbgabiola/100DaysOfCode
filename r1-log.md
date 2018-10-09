@@ -208,6 +208,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 69: October 04, Thursday 
 **Today's Progress**: Review Manipulating strings and practice interpolating with template literals.
 
+## Day 70: October 05, Friday 
+**Today's Progress**: Review the Flow Control using if else, switch, and ternary operatorn, and apply it in the exercises.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
