@@ -152,6 +152,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 49: July 30, Monday 
 **Today's Progress**: Learning the concepts of CSS grid and put it into practice by applying it in a project.
 
+## Day 50: July 31, Tuesday 
+**Today's Progress**: finished the advanced css and sass course. Started unit 2 of cs101.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
