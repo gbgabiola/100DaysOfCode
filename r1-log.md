@@ -205,6 +205,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 68: October 03, Wednesday 
 **Today's Progress**: Review all about variables, concept, declaring and defining and multi-line variable assignment.
 
+## Day 69: October 04, Thursday 
+**Today's Progress**: Review Manipulating strings and practice interpolating with template literals.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
