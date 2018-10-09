@@ -137,7 +137,8 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 44: July 23, Monday 
 **Today's Progress**: I started learning flexbox more in depth and I learned a lot of tricks in positioning items, and most of it can be done in flexbox.
 
-
+## Day 45: July 25, Wednesday 
+**Today's Progress**: Update natours popup project and used flexbox on it.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
