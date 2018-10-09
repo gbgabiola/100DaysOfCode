@@ -202,6 +202,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 67: October 02, Tuesday 
 **Today's Progress**: Finished the basics, continued the foundation with introduction to functions.
 
+## Day 68: October 03, Wednesday 
+**Today's Progress**: Review all about variables, concept, declaring and defining and multi-line variable assignment.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
