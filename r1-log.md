@@ -185,6 +185,11 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 62: August 14, Tuesday 
 **Today's Progress**: Changing the way how I approach in learning Plang, frameworks, and libraries. "The Complete Software Developer's Career Guide" Chapter 5 && 6 done. 
 
+## Day 63: August 15, Wednesday 
+**Today's Progress**: Learned more about the three different strategies or paths for a genuine software development.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
