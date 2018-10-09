@@ -179,6 +179,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 60: August 11, Saturday 
 **Today's Progress**: Continue with the same book, reviewed the tech skills that must have, PLang, structuring code, OO design, algorithms and data structures.
 
+## Day 61: August 13, Monday 
+**Today's Progress**: Finished chapter 4, organizing all my vision and goals, applying the quadrants matrix to determine the importance and urgency of each goals.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
