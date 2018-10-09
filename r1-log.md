@@ -146,6 +146,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 47: July 27, Friday 
 **Today's Progress**: Continue to read ch 17-20 of "asmartwaytolearnjavascript" and it's interactive exercise. Practiced CSS grid in codepen.
 
+## Day 48: July 28, Saturday 
+**Today's Progress**: Started cs101 again, to review cs concepts, with quizzes,exercises and problem sets.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
