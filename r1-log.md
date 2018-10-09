@@ -143,6 +143,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 46: July 26, Thursday 
 **Today's Progress**: Learning CSS grid for multi-dimensional system, to replace floats, use less and readable code, and much more logical CSS code.
 
+## Day 47: July 27, Friday 
+**Today's Progress**: Continue to read ch 17-20 of "asmartwaytolearnjavascript" and it's interactive exercise. Practiced CSS grid in codepen.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
