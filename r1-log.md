@@ -173,6 +173,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 57-58: August 08-09, Wednesday to Thursday 
 **Today's Progress**: Started and finished a short course "How to Use SMART Goals" to achieve more in less time and to gain clarity as my goal setting system.
 
+## Day 59: August 10, Friday 
+**Today's Progress**: Started reading another book "The Complete Software Developer's Career Guide", currently in chapter 3.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
