@@ -134,6 +134,11 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 43: July 22, Sunday 
 **Today's Progress**: Created a build process for the sass project, compiled sass into css, merge the css files into one css, add prefixes auto, and compressed the whole code.
 
+## Day 44: July 23, Monday 
+**Today's Progress**: I started learning flexbox more in depth and I learned a lot of tricks in positioning items, and most of it can be done in flexbox.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
