@@ -167,6 +167,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 54: August 04, Saturday 
 **Today's Progress**: Continue with cs101 lectures and exercises. Having a hard time answering quizzes and problem sets.
 
+## Day 55-56: August 06-07, Monday to Tuesday 
+**Today's Progress**: Continue with the cs101 problem set. Literally struggling with the sets. This time I can't connect the dots, struggle to use the concepts I learned the combined it to a solution
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
