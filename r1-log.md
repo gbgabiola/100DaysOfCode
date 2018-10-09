@@ -170,6 +170,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 55-56: August 06-07, Monday to Tuesday 
 **Today's Progress**: Continue with the cs101 problem set. Literally struggling with the sets. This time I can't connect the dots, struggle to use the concepts I learned the combined it to a solution
 
+## Day 57-58: August 08-09, Wednesday to Thursday 
+**Today's Progress**: Started and finished a short course "How to Use SMART Goals" to achieve more in less time and to gain clarity as my goal setting system.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
