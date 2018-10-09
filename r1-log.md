@@ -131,7 +131,8 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 42: July 21, Saturday 
 **Today's Progress**: Not much coding today, just continued the project with sass, and read two chapters of "asmartwaytolearnjavascript" and interactive practice.
 
-
+## Day 43: July 22, Sunday 
+**Today's Progress**: Created a build process for the sass project, compiled sass into css, merge the css files into one css, add prefixes auto, and compressed the whole code.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
