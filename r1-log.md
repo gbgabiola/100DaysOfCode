@@ -161,7 +161,8 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 52: August 02, Thursday 
 **Today's Progress**: Wasn't able to code, fix some drivers on my laptop.
 
-
+## Day 53: August 03, Friday 
+**Today's Progress**: Continue the cs101, practice problem solving concepts, practice solving the problem using algorithm pseudocode before putting it into code.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
