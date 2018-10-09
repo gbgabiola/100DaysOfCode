@@ -140,6 +140,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 45: July 25, Wednesday 
 **Today's Progress**: Update natours popup project and used flexbox on it.
 
+## Day 46: July 26, Thursday 
+**Today's Progress**: Learning CSS grid for multi-dimensional system, to replace floats, use less and readable code, and much more logical CSS code.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
