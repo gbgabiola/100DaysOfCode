@@ -199,6 +199,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 66: October 01, Monday 
 **Today's Progress**: Started Introduction to javaScript on a online bootcamp. Set up my coding environment and integrated my github to the platform. Tackled the basic of the language.
 
+## Day 67: October 02, Tuesday 
+**Today's Progress**: Finished the basics, continued the foundation with introduction to functions.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
