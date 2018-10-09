@@ -188,7 +188,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 63: August 15, Wednesday 
 **Today's Progress**: Learned more about the three different strategies or paths for a genuine software development.
 
-
+## Day 64: August 16, Thursday 
+**Today's Progress**: Teaching Yourself chapter is done.  
+Losing motivation as a self-taught developer is normal, but you need to find the things that motivates you or remember the enthusiasm you had before when you started learning that specific subject.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
