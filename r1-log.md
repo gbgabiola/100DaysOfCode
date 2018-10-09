@@ -176,6 +176,9 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 59: August 10, Friday 
 **Today's Progress**: Started reading another book "The Complete Software Developer's Career Guide", currently in chapter 3.
 
+## Day 60: August 11, Saturday 
+**Today's Progress**: Continue with the same book, reviewed the tech skills that must have, PLang, structuring code, OO design, algorithms and data structures.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
