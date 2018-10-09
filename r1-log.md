@@ -158,6 +158,11 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 ## Day 51: August 01, Wednesday 
 **Today's Progress**: Review the procedure, controls and constructs of Computer Science. Finished the unit 2 of cs101.
 
+## Day 52: August 02, Thursday 
+**Today's Progress**: Wasn't able to code, fix some drivers on my laptop.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
