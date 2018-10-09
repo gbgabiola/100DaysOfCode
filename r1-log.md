@@ -211,6 +211,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 70: October 05, Friday 
 **Today's Progress**: Review the Flow Control using if else, switch, and ternary operatorn, and apply it in the exercises.
 
+## Day 71: October 06, Saturday 
+**Today's Progress**: Review writing functions, working with strings, difference between return and logging.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
