@@ -217,6 +217,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 72: October 08, Monday 
 **Today's Progress**: Finish the basic concepts behind computer as a developer in pre-programming course.
 
+## Day 73: October 09, Tuesday 
+**Today's Progress**: Tackle all about the web and some mobile in internet section in pre-programming course.
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
