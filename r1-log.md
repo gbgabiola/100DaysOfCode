@@ -193,7 +193,7 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 Losing motivation as a self-taught developer is normal, but you need to find the things that motivates you or remember the enthusiasm you had before when you started learning that specific subject.
 
 ## Day 65: September 29, Saturday 
-**Today's Progress**: I lost track of my progress because of unmotivation and procastination, but as a developer sometimes that's normal and needs to overcome it. I didn't stop learning while fixing my laptop, I still read some articles about best practices as a developer.  
+**Today's Progress**: I lost track of my progress because of unmotivated and procrastination, but as a developer sometimes that's normal and needs to overcome it. I didn't stop learning while fixing my laptop, I still read some articles about best practices as a developer.  
 Another start of the month and I'll continue my progress without fail.
 
 ## Day 66: October 01, Monday 
@@ -213,6 +213,9 @@ Another start of the month and I'll continue my progress without fail.
 
 ## Day 71: October 06, Saturday 
 **Today's Progress**: Review writing functions, working with strings, difference between return and logging.
+
+## Day 72: October 08, Monday 
+**Today's Progress**: Finish the basic concepts behind computer as a developer in pre-programming course.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
