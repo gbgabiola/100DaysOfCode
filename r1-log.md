@@ -220,6 +220,11 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 73: October 09, Tuesday 
 **Today's Progress**: Tackle all about the web and some mobile in internet section in pre-programming course.
 
+## Day 74: October 10, Wednesday 
+**Today's Progress**: Started fCC again from scratch and finish the 1st section of RWD and went thought the learn.co functions and scope lab.
+
+
+
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
 
