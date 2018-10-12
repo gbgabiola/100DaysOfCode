@@ -223,7 +223,8 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 74: October 10, Wednesday 
 **Today's Progress**: Started fCC again from scratch and finish the 1st section of RWD and went thought the learn.co functions and scope lab.
 
-
+## Day 75: October 11, Thursday 
+**Today's Progress**: Started the 2nd section of RWD in FCC. Done with the front, back and stacks section of pre-programing course.
 
 <!-- ## Day 00: Month 00, Whatday 
 **Today's Progress**: 
