@@ -229,6 +229,8 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 76: October 12, Friday
 **Today's Progress**: 2nd section of RWD in FCC and Core Concept section in pre-programming are done.
 
+## Day 77: October 13, Saturday
+**Today's Progress**: Diving in the Applied Visual Design (3rd section) of RWD in FCC. Learned a lot in learn.co functions and scope section. Understanding more about frameworks and APIs in pre-programming.
 
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**: 
