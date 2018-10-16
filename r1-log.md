@@ -232,6 +232,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 77: October 13, Saturday
 **Today's Progress**: Diving in the Applied Visual Design (3rd section) of RWD in FCC. Learned a lot in learn.co functions and scope section. Understanding more about frameworks and APIs in pre-programming.
 
+## Day 78: October 15, Monday
+**Today's Progress**: Went over in the CMS and advanced concepts in pre-programming and then Run through the data structures in learn.co. Lastly done some CSS in FCC. 
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**: 
 
