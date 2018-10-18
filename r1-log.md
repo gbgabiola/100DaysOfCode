@@ -235,6 +235,10 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 78: October 15, Monday
 **Today's Progress**: Went over in the CMS and advanced concepts in pre-programming and then Run through the data structures in learn.co. Lastly done some CSS in FCC. 
 
+## Day 79: October 16, Tuesday
+**Today's Progress**: Not feeling well, but still I code in learn-co and done some Applied Visual Design in FCC.
+
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**: 
 
