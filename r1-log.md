@@ -238,6 +238,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 79: October 16, Tuesday
 **Today's Progress**: Not feeling well, but still I code in learn-co and done some Applied Visual Design in FCC.
 
+## Day 80: October 17, Wednesday
+**Today's Progress**: Finish Applied VIsual Design and started Applied Accessibility in FCC. Done some objects and arrays data structure in learn-co.
+
 
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**: 
