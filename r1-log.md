@@ -241,6 +241,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 80: October 17, Wednesday
 **Today's Progress**: Finish Applied VIsual Design and started Applied Accessibility in FCC. Done some objects and arrays data structure in learn-co.
 
+## Day 81: October 18, Thursday
+**Today's Progress**: Done some Applied Accesibility in FCC. Learn more about the tech trends in pre-programming.
+
 
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**: 
