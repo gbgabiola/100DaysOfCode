@@ -244,6 +244,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 81: October 18, Thursday
 **Today's Progress**: Done some Applied Accesibility in FCC. Learn more about the tech trends in pre-programming.
 
+## Day 82: October 19, Friday
+**Today's Progress**: Finish the pre-programming course and Applied accessibility challenge in FCC.
+
 
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**: 
