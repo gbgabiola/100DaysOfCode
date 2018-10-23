@@ -250,7 +250,8 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 83: October 20, Saturday
 **Today's Progress**: Started and Finish the RWD Principles in FCC and then proceed to Flexbox.
 
-
+## Day 84: October 22, Monday
+**Today's Progress**: Continue to work on a flexbox in FCC and review the data structures in learn-co.
 
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
