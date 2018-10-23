@@ -21,7 +21,7 @@ The Round 1 log of my #100DaysOfCode challenge. Started on [June 01, Friday, 201
 **Today's Progress**: Finished the Lecture 0 edX CS50. Practice programming using pseudo code and explored Scratch programming.
 
 ## Day 6: June 07, Thursday
-**Today's Progress**:  Finished the lecture 1 and pset 1 in CS50. Interacted with the CS50 IDE using C language. Brushing up my understanding in foundational concepts of programming.
+**Today's Progress**: Finished the lecture 1 and pset 1 in CS50. Interacted with the CS50 IDE using C language. Brushing up my understanding in foundational concepts of programming.
 
 ## Day 7: June 08, Friday
 **Today's Progress**: Finished the lecture 2 and pset2 in CS50. Deep dive even more with the concepts of programming using C. C language is really hard, but I think getting the basic concepts of programming in this language is giving you a better understanding of the general concepts.
@@ -49,7 +49,7 @@ Finished the CSS Grid in FCC. Submitted the pset3 music in cs50.
 **Today's Progress**: Study ssh more and integrating it to my git and github, as well as using the WSL bash into my vscode. Started javascript in FCC. Setting up ssh on my dev is very challenging, because I have WSL on my environment, I always get this error `Permission denied (publickey).
 
 ## Day 15: June 16, Saturday
-**Today's Progress**: Not much coding today, just read some related projects while doing some js challenge in FCC. 
+**Today's Progress**: Not much coding today, just read some related projects while doing some js challenge in FCC.
 Thinking and planning for my projects and display it in github for a future reference, while learning more in depth.
 
 ## Day 16: June 17, Sunday
@@ -183,7 +183,7 @@ Designing is really hard, it can only be achieved through trial and error, by tr
 **Today's Progress**: Finished chapter 4, organizing all my vision and goals, applying the quadrants matrix to determine the importance and urgency of each goals.
 
 ## Day 62: August 14, Tuesday
-**Today's Progress**: Changing the way how I approach in learning Plang, frameworks, and libraries. "The Complete Software Developer's Career Guide" Chapter 5 && 6 done. 
+**Today's Progress**: Changing the way how I approach in learning Plang, frameworks, and libraries. "The Complete Software Developer's Career Guide" Chapter 5 && 6 done.
 
 ## Day 63: August 15, Wednesday
 **Today's Progress**: Learned more about the three different strategies or paths for a genuine software development.
@@ -233,7 +233,7 @@ Another start of the month and I'll continue my progress without fail.
 **Today's Progress**: Diving in the Applied Visual Design (3rd section) of RWD in FCC. Learned a lot in learn.co functions and scope section. Understanding more about frameworks and APIs in pre-programming.
 
 ## Day 78: October 15, Monday
-**Today's Progress**: Went over in the CMS and advanced concepts in pre-programming and then Run through the data structures in learn.co. Lastly done some CSS in FCC. 
+**Today's Progress**: Went over in the CMS and advanced concepts in pre-programming and then Run through the data structures in learn.co. Lastly done some CSS in FCC.
 
 ## Day 79: October 16, Tuesday
 **Today's Progress**: Not feeling well, but still I code in learn-co and done some Applied Visual Design in FCC.
@@ -247,10 +247,14 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 82: October 19, Friday
 **Today's Progress**: Finish the pre-programming course and Applied accessibility challenge in FCC.
 
+## Day 83: October 20, Saturday
+**Today's Progress**: Started and Finish the RWD Principles in FCC and then proceed to Flexbox.
+
+
 
 <!-- ## Day 00: Month 00, Whatday
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link to work:** [Sample App](http://www.example.com) -->
