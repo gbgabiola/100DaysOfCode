@@ -253,6 +253,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 84: October 22, Monday
 **Today's Progress**: Continue to work on a flexbox in FCC and review the data structures in learn-co.
 
+## Day 85: October 23, Tuesday
+**Today's Progress**: Completed the data structures in learn-co and flexbox in FCC.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
