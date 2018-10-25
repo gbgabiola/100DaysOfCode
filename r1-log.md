@@ -256,6 +256,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 85: October 23, Tuesday
 **Today's Progress**: Completed the data structures in learn-co and flexbox in FCC.
 
+## Day 86: October 24, Wednesday
+**Today's Progress**: Read some tutorials in blogs and started css-grid in FCC.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
