@@ -259,6 +259,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 86: October 24, Wednesday
 **Today's Progress**: Read some tutorials in blogs and started css-grid in FCC.
 
+## Day 87: October 25, Thursday
+**Today's Progress**: Practice css grid in FCC and review some javaScript concepts in MDN.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
