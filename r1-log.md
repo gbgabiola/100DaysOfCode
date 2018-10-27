@@ -262,6 +262,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 87: October 25, Thursday
 **Today's Progress**: Practice css grid in FCC and review some javaScript concepts in MDN.
 
+## Day 88: October 26, Friday
+**Today's Progress**: Completed loops in learn-co and operators in js basics for beginners udemy course then started control flow.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
