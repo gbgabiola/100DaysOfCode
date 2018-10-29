@@ -265,6 +265,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 88: October 26, Friday
 **Today's Progress**: Completed loops in learn-co and operators in js basics for beginners udemy course then started control flow.
 
+## Day 89: October 27, Saturday
+**Today's Progress**: Started the DOM in learn-co and Completed the control flow in js basics course.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
