@@ -271,6 +271,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 90: October 29, Monday
 **Today's Progress**: Continue playing with the DOM in learn-co and in Objects section in js basics course. Started the js certification in FCC.
 
+## Day 91: October 30, Tuesday
+**Today's Progress**: Finish the DOM section in learn-co, and Objects in js-basics, then continue to play with js in FCC.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
