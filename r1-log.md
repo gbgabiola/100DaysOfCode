@@ -274,6 +274,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 91: October 30, Tuesday
 **Today's Progress**: Finish the DOM section in learn-co, and Objects in js-basics, then continue to play with js in FCC.
 
+## Day 92: October 31, Wednesday
+**Today's Progress**: Started with the jQuery in learn-co, and started with the array exercises in js-basics. Continue to play js in FCC. Started a tribute page, planning to finish it tomorrow.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
