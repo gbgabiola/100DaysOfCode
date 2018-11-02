@@ -280,6 +280,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 93: November 01, Thursday
 **Today's Progress**: Completed a tribute page for The Bible and it's currently live. Done some js in FCC, arrays exercise in js-basics and jquery in learn-co.
 
+**Link to work:** [Tribute Page | The Bible](https://genesisgabiola.github.io/freeCodeCamp-projects/tribute-page/)
+
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
