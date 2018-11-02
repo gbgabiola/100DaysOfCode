@@ -277,6 +277,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 92: October 31, Wednesday
 **Today's Progress**: Started with the jQuery in learn-co, and started with the array exercises in js-basics. Continue to play js in FCC. Started a tribute page, planning to finish it tomorrow.
 
+## Day 93: November 01, Thursday
+**Today's Progress**: Completed a tribute page for The Bible and it's currently live. Done some js in FCC, arrays exercise in js-basics and jquery in learn-co.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
