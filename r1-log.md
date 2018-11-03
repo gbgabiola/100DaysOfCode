@@ -282,6 +282,10 @@ Another start of the month and I'll continue my progress without fail.
 
 **Link to work:** [Tribute Page | The Bible](https://genesisgabiola.github.io/freeCodeCamp-projects/tribute-page/)
 
+## Day 94: November 02, Friday
+**Today's Progress**: Did some manipulation in the DOM using jQuery in learn-co and play with vanilla js in FCC. Finish the arrays in js-basics. Completed survey form project for developers and it's currently live on my repository.
+
+**Link to work:** [Survey Form for Developers](https://genesisgabiola.github.io/freeCodeCamp-projects/survey-form/)
 
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
