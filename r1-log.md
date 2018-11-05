@@ -287,6 +287,9 @@ Another start of the month and I'll continue my progress without fail.
 
 **Link to work:** [Survey Form for Developers](https://genesisgabiola.github.io/freeCodeCamp-projects/survey-form/)
 
+## Day 95: November 03, Saturday
+**Today's Progress**: Planning for the product landing page. Finish the jQuery and assessment, that makes the introduction to js in learn-co complete. Dive into functions in js-basics and continue the vanilla js in FCC.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
