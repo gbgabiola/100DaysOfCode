@@ -290,6 +290,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 95: November 03, Saturday
 **Today's Progress**: Planning for the product landing page. Finish the jQuery and assessment, that makes the introduction to js in learn-co complete. Dive into functions in js-basics and continue the vanilla js in FCC.
 
+## Day 96: November 05, Monday
+**Today's Progress**: Started codeKata in hackerRank, #10daysOfjs, #30daysOfCode problem challenges to improve my problem solving skills. Continue the js in FCC.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
