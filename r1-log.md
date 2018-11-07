@@ -293,6 +293,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 96: November 05, Monday
 **Today's Progress**: Started codeKata in hackerRank, #10daysOfjs, #30daysOfCode problem challenges to improve my problem solving skills. Continue the js in FCC.
 
+## Day 97: November 06, Tuesday
+**Today's Progress**: Continue to solve problem challenges in #10daysOfJS and #30daysOfCode in hackerRank focusing on Operators. Continue the js road in FCC, centering in function with return.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
