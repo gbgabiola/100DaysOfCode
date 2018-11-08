@@ -296,6 +296,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 97: November 06, Tuesday
 **Today's Progress**: Continue to solve problem challenges in #10daysOfJS and #30daysOfCode in hackerRank focusing on Operators. Continue the js road in FCC, centering in function with return.
 
+## Day 98: November 07, Wednesday
+**Today's Progress**: Finished the 3rd day of js and code problem challenge. Doing pretty good in FCC js section. Structured the body my product landing page.
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
