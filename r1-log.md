@@ -299,6 +299,9 @@ Another start of the month and I'll continue my progress without fail.
 ## Day 98: November 07, Wednesday
 **Today's Progress**: Finished the 3rd day of js and code problem challenge. Doing pretty good in FCC js section. Structured the body my product landing page.
 
+## Day 99: November 08, Thursday
+**Today's Progress**: Finish the css and logo design of my product landing page, preview live will be update later. Done with 4th day js and code challenge and some JS comparison, logical operator and if...else statements. 
+
 <!-- ## Day 00: Month 00, Whatday
 **Today's Progress**:
 
