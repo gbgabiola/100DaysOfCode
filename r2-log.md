@@ -12,6 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 3: November 13, Tuesday
+**Today's Progress**:
+- More JS in FCC
+- Learning how to learn course WIP.
+- Completed the 10 Days of JavaScript
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- [Coursera: Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
+**Thoughts:** Having a hard time finish all the things I need to finish for the day, but still surviving.
+
 ## Day 2: November 12, Monday
 **Today's Progress**:
 - More JS in FCC
@@ -24,7 +37,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - [Coursera: Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-**Thoughts:** Starting my new #100daysOfCode with learning how to learn, so I can store the most important concepts I'm in my long term memory so I can access those information anytime I want it.
+**Thoughts:** Starting my new #100daysOfCode with learning how to learn, so I can store the most important concepts in my long term memory so I can access those information anytime I want it.
 
 ## Day 1: November 10, Saturday
 **Today's Progress**: 
