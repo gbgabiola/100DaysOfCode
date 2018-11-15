@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 5: November 15, Thursday
+**Today's Progress**:
+- Done some PR
+- Completed basic JS in FCC
+- Learning how to learn course WIP.
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Coursera: Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
+**Thoughts:** Done some PR contribution and anki flash cards.
+
 ## Day 4: November 14, Wednesday
 **Today's Progress**:
 - More JS in FCC
