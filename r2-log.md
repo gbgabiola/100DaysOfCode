@@ -12,6 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 8: November 18, Sunday
+**Today's Progress**:
+- More ES6 in FCC
+- Completed Learning how to learn course.
+- HackerRank Challenges
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Coursera: Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+**Thoughts:** I learned a lot from this course, now applying the Law of Serendipity.
+
 ## Day 7: November 17, Saturday
 **Today's Progress**:
 - More ES6 in FCC
