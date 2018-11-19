@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 9: November 19, Monday
+**Today's Progress**:
+- More ES6 in FCC
+- HackerRank Challenges
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+**Thoughts:** Planning to brush up my cs skills through cs50 course.
+
 ## Day 8: November 18, Sunday
 **Today's Progress**:
 - More ES6 in FCC
