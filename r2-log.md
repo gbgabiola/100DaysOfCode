@@ -12,7 +12,21 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
-## Day 11: November 21, Tuesday
+## Day 12: November 22, Thursday
+**Today's Progress**:
+- More ES6 in FCC
+- HackerRank Challenges
+- Review using anki
+- More on Git
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Redirecting my priorities, plans journals, focusing on the long term process.
+
+## Day 11: November 21, Wednesday
 **Today's Progress**:
 - More ES6 in FCC
 - HackerRank Challenges
@@ -26,7 +40,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 
 **Thoughts:** A lot of reviewing in git, because I sometimes mess up my repos.
 
-## Day 10: November 20, Monday
+## Day 10: November 20, Tuesday
 **Today's Progress**:
 - More ES6 in FCC
 - HackerRank Challenges
