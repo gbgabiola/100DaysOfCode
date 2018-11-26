@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 15: November 26, Monday
+**Today's Progress**:
+- Started RegEx in FCC
+- HackerRank Challenges
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Really helpful to have a knowledge about regular expression, it makes the code shorter to match with some specific items.
+
 ## Day 14: November 24, Saturday
 **Today's Progress**:
 - Started RegEx in FCC
