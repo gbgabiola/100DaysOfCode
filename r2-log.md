@@ -12,6 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 19: December 01, Saturday
+**Today's Progress**:
+- More on The JS Handbook
+- More RegEx in FCC
+- HackerRank Challenges
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Deep dive into different kinds of functions, and it's features; parameters, return, nested, object methods, arrow, IIFE, hoisting.
+
 ## Day 18: November 30, Friday
 **Today's Progress**:
 - More on The JS Handbook
