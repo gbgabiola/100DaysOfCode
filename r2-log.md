@@ -12,6 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 20: December 03, Monday
+**Today's Progress**:
+- More on The JS Handbook
+- More RegEx in FCC
+- Completed 30 Days Of Code Challenges on HackerRank
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Completed 30days of code using js language, done some Regex and customized my anki cards.
+
 ## Day 19: December 01, Saturday
 **Today's Progress**:
 - More on The JS Handbook
