@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 21: December 06, Thursday
+**Today's Progress**:
+- More JS in Codecademy
+- More on Debugging in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Review the basic concepts before moving to a more advanced concepts to make sure I'm getting the vanilla before moving to a frameworks or library.
+
 ## Day 20: December 03, Monday
 **Today's Progress**:
 - More on The JS Handbook
