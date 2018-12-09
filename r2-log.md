@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 22: December 07, Friday
+**Today's Progress**:
+- Started Web Developer Bootcamp Course
+- Completed Debugging in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Review the basic and completed the initial exercises in the course.
+
 ## Day 21: December 06, Thursday
 **Today's Progress**:
 - More JS in Codecademy
