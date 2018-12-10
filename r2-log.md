@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 23: December 10, Monday
+**Today's Progress**:
+- More on Bootcamp Course
+- Started Data Structure in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Working on Data Structure and some css styling.
+
 ## Day 22: December 07, Friday
 **Today's Progress**:
 - Started Web Developer Bootcamp Course
