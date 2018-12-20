@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 29: December 18, Tuesday
+**Today's Progress**:
+- Started The DOM in Bootcamp Course
+- More on Algorithms in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Manipulate the elements using the DOM, and solved algorithm challenges
+
 ## Day 28: December 17, Monday
 **Today's Progress**:
 - Completed js in Bootcamp Course
