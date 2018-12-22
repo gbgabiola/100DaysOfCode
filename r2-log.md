@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 32: December 21, Friday
+**Today's Progress**:
+- Completed the Color Game App
+- Completed Algorithms in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Manipulate the DOM by making a color game app and refactor some codes.
+
 ## Day 31: December 20, Thursday
 **Today's Progress**:
 - Create a Color Game App
