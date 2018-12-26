@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 33: December 22, Saturday
+**Today's Progress**:
+- Started jQuery in Bootcamp Course
+- Started OOP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Understanding more the difference between the ex-most popular js library and vanilla js.
+
 ## Day 32: December 21, Friday
 **Today's Progress**:
 - Completed the Color Game App
