@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 34: December 26, Wednesday
+**Today's Progress**:
+- Completed Advanced jQuery in Bootcamp Course
+- Explore paper.js and howler.js
+- More on OOP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Read the docs of paper and howler js animation libries.
+
 ## Day 33: December 22, Saturday
 **Today's Progress**:
 - Started jQuery in Bootcamp Course
