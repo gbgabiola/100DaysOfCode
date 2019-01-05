@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 36: December 28, Friday
+**Today's Progress**:
+- Started Back-End in Bootcamp Course
+- More on OOP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Setup a simple environment in cloud9, and on my local environment using vscode.
+
 ## Day 35: December 27, Thursday
 **Today's Progress**:
 - Completed Front-End in Bootcamp Course
