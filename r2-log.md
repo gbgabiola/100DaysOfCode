@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 37: January 03, Thursday
+**Today's Progress**:
+- More on Back-End Workflow in Bootcamp Course
+- Completed OOP in FCC
+- Started FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Reading some concepts and best practices in js during holiday.
+
 ## Day 36: December 28, Friday
 **Today's Progress**:
 - Started Back-End in Bootcamp Course
