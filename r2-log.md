@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 41: January 09, Wednesday
+**Today's Progress**:
+- Started working with APIs
+- Started yelpCamp project
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Started with APIs and explored the movie API with results route, displaying data, and adding search.
+
 ## Day 40: January 08, Tuesday
 **Today's Progress**:
 - More on Express.js
