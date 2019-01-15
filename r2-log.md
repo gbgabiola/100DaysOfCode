@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 39: January 07, Monday
+**Today's Progress**:
+- More on Node.js in Bootcamp Course
+- Started Express.js
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Still working with node.js, but this time with Express.js which is a server side node.js framework
+
 ## Day 38: January 04, Friday
 **Today's Progress**:
 - Started Node.js in Bootcamp Course
