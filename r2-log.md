@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 42: January 10, Thursday
+**Today's Progress**:
+- Started MongoDB Database
+- More on yelpCamp: Data Persistence
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Learned more about the difference between relational and non-relation database, and where to use them. Using MongoDB because it's latest, flexible and it's best with Node.js.
+
 ## Day 41: January 09, Wednesday
 **Today's Progress**:
 - Started working with APIs
