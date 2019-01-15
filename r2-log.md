@@ -12,6 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 38: January 04, Friday
+**Today's Progress**:
+- Started Node.js in Bootcamp Course
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Started working with Node.js which is a javaScript working on a back-end.
+
 ## Day 37: January 03, Thursday
 **Today's Progress**:
 - More on Back-End Workflow in Bootcamp Course
