@@ -12,9 +12,21 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 40: January 08, Tuesday
+**Today's Progress**:
+- More on Express.js
+- Started EJS
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Introduced to ejs which is templating language that can generate html using a plain javaScript, which is very simple.
+
 ## Day 39: January 07, Monday
 **Today's Progress**:
-- More on Node.js in Bootcamp Course
+- More on Node.js
 - Started Express.js
 - More on FP in FCC
 
@@ -22,7 +34,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
 - [Progress](https://github.com/genesisgabiola/progress)
 
-**Thoughts:** Still working with node.js, but this time with Express.js which is a server side node.js framework
+**Thoughts:** Still working with node.js, but this time with Express.js which is a server side node.js framework.
 
 ## Day 38: January 04, Friday
 **Today's Progress**:
