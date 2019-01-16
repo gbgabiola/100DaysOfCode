@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 45: January 15, Tuesday
+**Today's Progress**:
+- Started Authentication
+- More on yelpCamp: Adding Authentication
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Used different tools for authentication like Passport, Passport Local, and Passport Local Mongoose module or package. Sessions which allows us to have state in HTTP request, then a middle using passport.authenticate.
+
 ## Day 44: January 14, Monday
 **Today's Progress**:
 - More on Data Association
