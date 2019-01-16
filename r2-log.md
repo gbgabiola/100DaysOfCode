@@ -12,6 +12,18 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 44: January 14, Monday
+**Today's Progress**:
+- More on Data Association
+- More on yelpCamp: Comments
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Deep dive into different types of data association, used a module.exports to break things into files to clean up the codes and to make things more modular and makes it reusable.
+
 ## Day 43: January 11, Friday
 **Today's Progress**:
 - More on Restful Routing
@@ -22,7 +34,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
 - [Progress](https://github.com/genesisgabiola/progress)
 
-**Thoughts:** Started using a pattern/architecture for structuring HTTP routes to CRUD functionality. Explored semantic-ui which is another css framework
+**Thoughts:** Started using a pattern/architecture for structuring HTTP routes to CRUD functionality. Explored semantic-ui which is another css framework.
 
 ## Day 42: January 10, Thursday
 **Today's Progress**:
