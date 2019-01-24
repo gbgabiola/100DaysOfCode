@@ -12,6 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [November 10, Saturda
 - [Sample App](http://www.example.com)
 -->
 
+## Day 46: January 16, Wednesday
+**Today's Progress**:
+- YelpCamp: Cleaning Up
+- YelpCamp: Update and Destroy
+- YelpCamp: UI Improvements
+- More on FP in FCC
+
+**Link to work:**
+- [FCC Code Profile](https://www.freecodecamp.org/genesisgabiola)
+- [Progress](https://github.com/genesisgabiola/progress)
+
+**Thoughts:** Completed the yelp camp project, there's a lot of information there, I need to practice and revisit the important concepts.
+
 ## Day 45: January 15, Tuesday
 **Today's Progress**:
 - Started Authentication
