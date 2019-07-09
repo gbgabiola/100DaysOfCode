@@ -13,5 +13,10 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 -->
 
 
+## Day 02: July 02, Tuesday
+**Today's Progress**: Polishing my html & css skills without using a frameworks or library with a new course modern html & css from the beginning.
+
+**Thoughts**: Brad Traversy is really a good teacher, he explains the concepts in a manner that you will understand it better. One of the great teachers in web development industry.
+
 ## Day 01: July 01, Monday
 **Today's Progress**: Reset the progress and start a new commitment of continous learning different technologies.
