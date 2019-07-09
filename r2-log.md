@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 04: July 04, Thursday
+**Today's Progress**: Started with the basic layout, meta tags, search engine related tags for ranking the site.
+
 ## Day 03: July 03, Wednesday
 **Today's Progress**: Review how the Web works, roles of web technologies and be able to explain it to others.
 
