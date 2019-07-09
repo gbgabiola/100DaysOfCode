@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 07: July 08, Monday
+**Today's Progress**: Implement/review basic css selectors, and navigate the devTools. Focus on fonts, colors, backgrounds, borders, box model, margin & padding.
+
 ## Day 06: July 06, Saturday
 **Today's Progress**: Proceed with forms and different inputs. Differences of block level and inline level elements. Learn more when to use div, span, id & classes. Look at the HTML entities.
 
