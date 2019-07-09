@@ -12,13 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 06: July 06, Saturday
+**Today's Progress**: Proceed with forms and different inputs. Differences of block level and inline level elements. Learn more when to use div, span, id & classes. Look at the HTML entities.
+
 ## Day 05: July 05, Friday
 **Today's Progress**: Tackle headings, paragraphs & typography. Different types of links, images, & attributes. Work lists & tables as well.
 
 **Thoughts**: Following the course by doing what the instructor is doing. Solving the challenges provided at the end of every section can be fulfilling.
-
-**Link to work**:
-- [Sample App](http://www.example.com)
 
 ## Day 04: July 04, Thursday
 **Today's Progress**: Started with the basic layout, meta tags, search engine related tags for ranking the site.
