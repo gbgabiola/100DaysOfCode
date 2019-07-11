@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 09: July 10, Wednesday
+**Today's Progress**: Learn more about responsive layout design, using relative units like em, rem vh, wh and media queries for different sizes of devices, then built a responsive hotel website.
+
 ## Day 08: July 09, Tuesday
 **Today's Progress**: Learn more about float & alignmen. Different types of link state, styling buttons & menu navigation, positioning content, display values, visibility, order & lastly negating margin.
 
