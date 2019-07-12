@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 11: July 12, Friday
+**Today's Progress**: Exploring and building a flexbox edgeLedger project, then learn more about hosting especially shared hosting and uploading files using FTP app.
+
 ## Day 10: July 11, Thursday
 **Today's Progress**: Study more about flexbox for a better approach on making a layout instead of using old style floats.
 
