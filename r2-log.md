@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 13: July 15, Monday
+**Today's Progress**: Continued to learn more CSS concepts such as Advanced Selectors and CSS Variables.
+
 ## Day 12: July 13, Saturday
 **Today's Progress**: Tweak the flexbox project and turn it into bridgeLedger project.
 
