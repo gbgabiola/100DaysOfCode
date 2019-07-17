@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 14: July 16, Tuesday
+**Today's Progress**: Learned more about advanced properties like keyframes, transforms, and transitions to do some complex project.
+
 ## Day 13: July 15, Monday
 **Today's Progress**: Continued to learn more CSS concepts such as Advanced Selectors and CSS Variables.
 
