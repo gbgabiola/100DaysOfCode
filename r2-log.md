@@ -12,6 +12,14 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 15: July 17, Wednesday
+**Today's Progress**: Built some mini projects that uses advanced css concepts, where all that I've learned in CSS was applied.
+
+**Thoughts**: It's still hard to do some complex animation with just CSS, jQuery still has a part for some animations, where you cannot do it with just CSS.
+
+**Link to work**:
+- [Some Mini Projects](https://codepen.io/genesisgabiola/)
+
 ## Day 14: July 16, Tuesday
 **Today's Progress**: Learned more about advanced properties like keyframes, transforms, and transitions to do some complex project.
 
