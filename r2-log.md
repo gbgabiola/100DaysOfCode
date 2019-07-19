@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 16: July 18, Thursday
+**Today's Progress**: Deep dive with CSS grid for multi dimensional layout and made a techNews website using grid layouts.
+
 ## Day 15: July 17, Wednesday
 **Today's Progress**: Built some mini projects that uses advanced css concepts, where all that I've learned in CSS was applied.
 
