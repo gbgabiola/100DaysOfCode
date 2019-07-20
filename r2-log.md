@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 17: July 19, Friday
+**Today's Progress**: Spend the time building a technews website using the concepts of CSS grid.
+
+**Link to work**:
+- [TechNews](https://tech-news.netlify.com/)
+
 ## Day 16: July 18, Thursday
 **Today's Progress**: Deep dive with CSS grid for multi dimensional layout and made a techNews website using grid layouts.
 
