@@ -12,6 +12,11 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 18: July 20, Saturday
+**Today's Progress**: Started to deep dive in a css preprocessor using node-sass and scss syntax.
+
+**Thoughts**: It is much easier to structure the style with a sass, it can apply the programming concepts like variables, functions, mixins & etc.
+
 ## Day 17: July 19, Friday
 **Today's Progress**: Spend the time building a technews website using the concepts of CSS grid.
 
