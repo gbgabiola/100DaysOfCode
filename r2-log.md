@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 19: July 22, Monday
+**Today's Progress**: Focus and completed Applied Visual Design section, worked also with a modern portfolio.
+
+**Link to work**:
+- [freeCodeCamp](https://freecodecamp.org/genesisgabiola)
+- [Modern Portfolio](https://genesisgabiola.github.io/modern-portfolio)
+
 ## Day 18: July 20, Saturday
 **Today's Progress**: Started to deep dive in a css preprocessor using node-sass and scss syntax.
 
