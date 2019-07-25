@@ -12,6 +12,11 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 22: July 25, Thursday
+**Today's Progress**: Format my system and setup my new environment with WSL, deep dive with my development environment, devTools and zsh.
+
+**Thoughts**: Planning to document and automate my setup process so I can easily setup my environment in the future.
+
 ## Day 21: July 24, Wednesday
 **Today's Progress**: Done with Accessibility section for making a websites more accessible to anyone then review the basics of multimedia like audio & graphics.
 
