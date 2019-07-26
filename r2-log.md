@@ -12,6 +12,11 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 23: July 26, Friday
+**Today's Progress**: Continue to setup work dev environment with files/folders, main/sub host, editors, extensions, libraries, dependencies, and especially my terminals.
+
+**Thoughts**: Making sure to be able to use my tools using Windows and most of the extensions, libraries, dependencies are coming from Linux.
+
 ## Day 22: July 25, Thursday
 **Today's Progress**: Format my system and setup my new environment with WSL, deep dive with my development environment, devTools and zsh.
 
