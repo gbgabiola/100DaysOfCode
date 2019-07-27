@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 24: July 27, Saturday
+**Today's Progress**: Review and finish the RWD & flex concepts section while completing my dev environment. I customized also my new conhost terminal instead of hyper which I used last year for WSL environment.
+
+- [Responsive Web Design](https://freecodecamp.org/genesisgabiola)
+- [Flexbox](https://freecodecamp.org/genesisgabiola)
+
 ## Day 23: July 26, Friday
 **Today's Progress**: Continue to setup work dev environment with files/folders, main/sub host, editors, extensions, libraries, dependencies, and especially my terminals.
 
