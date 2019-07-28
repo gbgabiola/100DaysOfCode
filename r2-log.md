@@ -12,6 +12,14 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 25: July 28, Sunday
+**Today's Progress**: Deep dive with unix/linux terminal, making scripts to automate the hard work especially on my dev environment.
+
+**Thoughts**: As a developer we definitely need dotfiles, we need to make sure we're not spending a lot of time setting up the dev environment.
+
+**Link to work**:
+- [dotfiles](https://github.com/genesisgabiola/dotfiles)
+
 ## Day 24: July 27, Saturday
 **Today's Progress**: Review and finish the RWD & flex concepts section while completing my dev environment. I customized also my new conhost terminal instead of hyper which I used last year for WSL environment.
 
