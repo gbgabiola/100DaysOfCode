@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 26: July 29, Monday
+**Today's Progress**: Review and Completed the grid section. Fast review and summarized the html concepts.
+
+**Link to work**:
+- [CSS Grid](https://freecodecamp.org/genesisgabiola)
+
 ## Day 25: July 28, Sunday
 **Today's Progress**: Deep dive with unix/linux terminal, making scripts to automate the hard work especially on my dev environment.
 
@@ -23,6 +29,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 ## Day 24: July 27, Saturday
 **Today's Progress**: Review and finish the RWD & flex concepts section while completing my dev environment. I customized also my new conhost terminal instead of hyper which I used last year for WSL environment.
 
+**Link to work**:
 - [Responsive Web Design](https://freecodecamp.org/genesisgabiola)
 - [Flexbox](https://freecodecamp.org/genesisgabiola)
 
