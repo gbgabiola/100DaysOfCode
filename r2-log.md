@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 27: July 30, Tuesday
+**Today's Progress**: Apply all the basics of webdev concepts except javaScript on a simple tribute project and started reviewing the basic js from the scratch.
+
+**Link to work**:
+- [Tribute Page](https://the-bible.netlify.com)
+- [Basic JS](https://freecodecamp.org/genesisgabiola)
+
 ## Day 26: July 29, Monday
 **Today's Progress**: Review and Completed the grid section. Fast review and summarized the html concepts.
 
