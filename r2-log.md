@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 28: July 31, Wednesday
+**Today's Progress**: Play on my sandbox to practice developing sites and review more about web technologies and the Programming language of the web.
+
 ## Day 27: July 30, Tuesday
 **Today's Progress**: Apply all the basics of webdev concepts except javaScript on a simple tribute project and started reviewing the basic js from the scratch.
 
