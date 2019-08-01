@@ -12,6 +12,11 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 29: July 01, Thursday
+**Today's Progress**: Started reviewing mathematics before diving on to a computer science curriculum, so that it will give me a good computing foundation.
+
+**Thoughts**: Doing some basic math to review the process of basic computation, then upgrading it level by level. Started learning through khanacadmy because it has video tutorials and quizzes. 
+
 ## Day 28: July 31, Wednesday
 **Today's Progress**: Play on my sandbox to practice developing sites and review more about web technologies and the Programming language of the web.
 
