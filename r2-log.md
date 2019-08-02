@@ -12,7 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
-## Day 29: July 01, Thursday
+## Day 30: August 02, Friday
+**Today's Progress**: Completed css & started bootstrap section of webdev course. Continue doing some arithmetic exercises before moving to a next math topic.
+
+**Thoughts**: While learning I'm also building a basic side project website for someone. I'll update the link soon...
+
+## Day 29: August 01, Thursday
 **Today's Progress**: Started reviewing mathematics before diving on to a computer science curriculum, so that it will give me a good computing foundation.
 
 **Thoughts**: Doing some basic math to review the process of basic computation, then upgrading it level by level. Started learning through khanacadmy because it has video tutorials and quizzes. 
