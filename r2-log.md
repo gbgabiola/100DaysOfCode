@@ -12,6 +12,11 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 31: August 03, Saturday
+**Today's Progress**: Deep dive into a bootstrap, a css front-end framework and building projects while learning it.
+
+**Thoughts**: The best teacher is experience, that's why putting all the learnings into an action is the key to success. :)
+
 ## Day 30: August 02, Friday
 **Today's Progress**: Completed css & started bootstrap section of webdev course. Continue doing some arithmetic exercises before moving to a next math topic.
 
