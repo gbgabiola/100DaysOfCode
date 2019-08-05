@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 32: August 05, Monday
+**Today's Progress**: Completed the bootstrap section of web dev course, continued doing some js challenges, and building a small project for pets especially dogs.
+
+**Link to work**:
+- [tinderPet](https://tinderpet.netlify.com/)
+- [Basic JS](https://freecodecamp.org/genesisgabiola)
+
 ## Day 31: August 03, Saturday
 **Today's Progress**: Deep dive into a bootstrap, a css front-end framework and building projects while learning it.
 
