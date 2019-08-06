@@ -12,6 +12,15 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 33: August 06, Tuesday
+**Today's Progress**: To finish the tinderPet project I added a javaScript smooth scrolling for the links. Still reviewing some javaScript challenges.
+
+**Thoughts**: Making the project responsive have taken much of my time, and made my code dirty by adding some additional styles for smaller devices.
+
+**Link to work**:
+- [tinderPet](https://tinderpet.netlify.com/)
+- [Basic JS](https://freecodecamp.org/genesisgabiola)
+
 ## Day 32: August 05, Monday
 **Today's Progress**: Completed the bootstrap section of web dev course, continued doing some js challenges, and building a small project for pets especially dogs.
 
