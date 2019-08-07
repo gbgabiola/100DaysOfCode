@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 34: August 07, Wednesday
+**Today's Progress**: Solved more of js challenges from the webdev course and FCC. Played with arithmetics and also drawings using ProcessingJS library.
+
+**Link to work**:
+- [Basic JS](https://freecodecamp.org/genesisgabiola)
+
 ## Day 33: August 06, Tuesday
 **Today's Progress**: To finish the tinderPet project I added a javaScript smooth scrolling for the links. Still reviewing some javaScript challenges.
 
