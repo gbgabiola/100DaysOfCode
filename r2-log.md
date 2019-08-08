@@ -12,6 +12,9 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 35: August 08, Thursday
+**Today's Progress**: Continue to explore ProcessJS using drawings, colors, shapes and arithmetics. Reviewed and Solved some js problems.
+
 ## Day 34: August 07, Wednesday
 **Today's Progress**: Solved more of js challenges from the webdev course and FCC. Played with arithmetics and also drawings using ProcessingJS library.
 
