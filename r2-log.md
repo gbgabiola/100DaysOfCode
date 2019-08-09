@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [Sample App](http://www.example.com)
 -->
 
+## Day 36: August 09, Friday
+**Today's Progress**: Completed all the basic js challenges on FCC & webdev course. Continue doing some drawings & arithmetics.
+
+**Link to work**:
+- [Basic JS](https://freecodecamp.org/genesisgabiola)
+
 ## Day 35: August 08, Thursday
 **Today's Progress**: Continue to explore ProcessJS using drawings, colors, shapes and arithmetics. Reviewed and Solved some js problems.
 
