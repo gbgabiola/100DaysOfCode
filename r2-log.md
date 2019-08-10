@@ -9,23 +9,33 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Thoughts**:
 
 **Link to work**:
-- [Sample App](http://www.example.com)
+- [ ] [Sample App](http://www.example.com)
 -->
+
+
+## Day 37: August 10, Saturday
+**Today's Progress**: Started the es6 section of FCC and reviewed some manipulation of the DOM from webdev course.
+
+**Link to work**:
+- [ ] [ES6](https://freecodecamp.org/genesisgabiola)
 
 ## Day 36: August 09, Friday
 **Today's Progress**: Completed all the basic js challenges on FCC & webdev course. Continue doing some drawings & arithmetics.
 
 **Link to work**:
-- [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [x] [Basic JS](https://freecodecamp.org/genesisgabiola)
 
 ## Day 35: August 08, Thursday
 **Today's Progress**: Continue to explore ProcessJS using drawings, colors, shapes and arithmetics. Reviewed and Solved some js problems.
+
+**Link to work**:
+- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
 
 ## Day 34: August 07, Wednesday
 **Today's Progress**: Solved more of js challenges from the webdev course and FCC. Played with arithmetics and also drawings using ProcessingJS library.
 
 **Link to work**:
-- [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
 
 ## Day 33: August 06, Tuesday
 **Today's Progress**: To finish the tinderPet project I added a javaScript smooth scrolling for the links. Still reviewing some javaScript challenges.
@@ -33,15 +43,15 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Thoughts**: Making the project responsive have taken much of my time, and made my code dirty by adding some additional styles for smaller devices.
 
 **Link to work**:
-- [tinderPet](https://tinderpet.netlify.com/)
-- [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [x] [tinderPet](https://tinderpet.netlify.com/)
+- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
 
 ## Day 32: August 05, Monday
 **Today's Progress**: Completed the bootstrap section of web dev course, continued doing some js challenges, and building a small project for pets especially dogs.
 
 **Link to work**:
-- [tinderPet](https://tinderpet.netlify.com/)
-- [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [ ] [tinderPet](https://tinderpet.netlify.com/)
+- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
 
 ## Day 31: August 03, Saturday
 **Today's Progress**: Deep dive into a bootstrap, a css front-end framework and building projects while learning it.
@@ -65,14 +75,14 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Apply all the basics of webdev concepts except javaScript on a simple tribute project and started reviewing the basic js from the scratch.
 
 **Link to work**:
-- [Tribute Page](https://the-bible.netlify.com)
-- [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [x] [Tribute Page](https://the-bible.netlify.com)
+- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
 
 ## Day 26: July 29, Monday
 **Today's Progress**: Review and Completed the grid section. Fast review and summarized the html concepts.
 
 **Link to work**:
-- [CSS Grid](https://freecodecamp.org/genesisgabiola)
+- [x] [CSS Grid](https://freecodecamp.org/genesisgabiola)
 
 ## Day 25: July 28, Sunday
 **Today's Progress**: Deep dive with unix/linux terminal, making scripts to automate the hard work especially on my dev environment.
@@ -80,14 +90,14 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Thoughts**: As a developer we definitely need dotfiles, we need to make sure we're not spending a lot of time setting up the dev environment.
 
 **Link to work**:
-- [dotfiles](https://github.com/genesisgabiola/dotfiles)
+- [x] [dotfiles](https://github.com/genesisgabiola/dotfiles)
 
 ## Day 24: July 27, Saturday
 **Today's Progress**: Review and finish the RWD & flex concepts section while completing my dev environment. I customized also my new conhost terminal instead of hyper which I used last year for WSL environment.
 
 **Link to work**:
-- [Responsive Web Design](https://freecodecamp.org/genesisgabiola)
-- [Flexbox](https://freecodecamp.org/genesisgabiola)
+- [x] [Responsive Web Design](https://freecodecamp.org/genesisgabiola)
+- [x] [Flexbox](https://freecodecamp.org/genesisgabiola)
 
 ## Day 23: July 26, Friday
 **Today's Progress**: Continue to setup work dev environment with files/folders, main/sub host, editors, extensions, libraries, dependencies, and especially my terminals.
@@ -103,21 +113,21 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Done with Accessibility section for making a websites more accessible to anyone then review the basics of multimedia like audio & graphics.
 
 **Link to work**:
-- [Accessibility](https://freecodecamp.org/genesisgabiola)
+- [x] [Accessibility](https://freecodecamp.org/genesisgabiola)
 
 ## Day 20: July 23, Tuesday
 **Today's Progress**: Completed Modern HTML & CSS From The Beginning (Including Sass) course and a modern portfolio project. Started learning more about accessibility also.
 
 **Link to work**:
-- [Modern Portfolio](https://johndoe-portfolio.netlify.com/)
-- [Accessibility](https://freecodecamp.org/genesisgabiola)
+- [x] [Modern Portfolio](https://johndoe-portfolio.netlify.com/)
+- [ ] [Accessibility](https://freecodecamp.org/genesisgabiola)
 
 ## Day 19: July 22, Monday
 **Today's Progress**: Focus and completed Applied Visual Design section, worked also with a modern portfolio.
 
 **Link to work**:
-- [Visual Design](https://freecodecamp.org/genesisgabiola)
-- [Modern Portfolio](https://johndoe-portfolio.netlify.com/)
+- [x] [Visual Design](https://freecodecamp.org/genesisgabiola)
+- [ ] [Modern Portfolio](https://johndoe-portfolio.netlify.com/)
 
 ## Day 18: July 20, Saturday
 **Today's Progress**: Started to deep dive in a css preprocessor using node-sass and scss syntax.
@@ -128,7 +138,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Spend the time building a technews website using the concepts of CSS grid.
 
 **Link to work**:
-- [TechNews](https://tech-news.netlify.com/)
+- [x] [TechNews](https://tech-news.netlify.com/)
 
 ## Day 16: July 18, Thursday
 **Today's Progress**: Deep dive with CSS grid for multi dimensional layout and made a techNews website using grid layouts.
@@ -139,7 +149,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Thoughts**: It's still hard to do some complex animation with just CSS, jQuery still has a part for some animations, where you cannot do it with just CSS.
 
 **Link to work**:
-- [Some Mini Projects](https://codepen.io/genesisgabiola/)
+- [x] [Some Mini Projects](https://codepen.io/genesisgabiola/)
 
 ## Day 14: July 16, Tuesday
 **Today's Progress**: Learned more about advanced properties like keyframes, transforms, and transitions to do some complex project.
@@ -151,7 +161,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Tweak the flexbox project and turn it into bridgeLedger project.
 
 **Link to work**:
-- [bridgeLedger](https://genesisgabiola.github.io/bridgeLedger)
+- [x] [bridgeLedger](https://genesisgabiola.github.io/bridgeLedger)
 
 ## Day 11: July 12, Friday
 **Today's Progress**: Exploring and building a flexbox edgeLedger project, then learn more about hosting especially shared hosting and uploading files using FTP app.
@@ -163,7 +173,7 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Learn more about responsive layout design, using relative units like em, rem vh, wh and media queries for different sizes of devices, then built a responsive hotel website.
 
 **Link to work**:
-- [hbs](https://genesisgabiola.github.io/hbs)
+- [x] [hbs](https://genesisgabiola.github.io/hbs)
 
 ## Day 08: July 09, Tuesday
 **Today's Progress**: Learn more about float & alignmen. Different types of link state, styling buttons & menu navigation, positioning content, display values, visibility, order & lastly negating margin.
