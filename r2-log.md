@@ -13,6 +13,11 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 -->
 
 
+## Day 38: August 12, Monday
+**Today's Progress**: Deep dive on a higher order functions, callbacks and constructors. Learned the concepts behind the absolute value and negative numbers.
+
+- [ ] [ES6](https://freecodecamp.org/genesisgabiola)
+
 ## Day 37: August 10, Saturday
 **Today's Progress**: Started the es6 section of FCC and reviewed some manipulation of the DOM from webdev course.
 
