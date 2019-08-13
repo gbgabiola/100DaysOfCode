@@ -12,10 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 39: August 13, Tuesday
+**Today's Progress**: Work on a small sandbox project, simon game using jQuery library while practicing my es6 skills also by solving problems in FCC.
+
+**Thoughts**: Making a project using a jQuery is very easy, thinking of using it on my future projects, but when I think about react, I want to learn it already...
+
+**Link to work**:
+- [ ] [ES6](https://freecodecamp.org/genesisgabiola)
+- [ ] [The Simon Game](https://genesisgabiola.github.io/sandbox/)
 
 ## Day 38: August 12, Monday
 **Today's Progress**: Deep dive on a higher order functions, callbacks and constructors. Learned the concepts behind the absolute value and negative numbers.
 
+**Link to work**:
 - [ ] [ES6](https://freecodecamp.org/genesisgabiola)
 
 ## Day 37: August 10, Saturday
