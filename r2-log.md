@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 41: August 15, Thursday
+**Today's Progress**: Started node and express section from webdev course and solved some regex challenges.
+
+**Link to work**:
+- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+
 ## Day 40: August 14, Wednesday
 **Today's Progress**: Completed the es6 problems in FCC and the sandbox classic project simon game which is already live on github site.
 
