@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 42: August 16, Friday
+**Today's Progress**: After the concepts of node & express, I continue on comprehensive exploration of apis, combining the concepts I learned to build more complex backend application. Continue solving more regex problems.
+
+**Link to work**:
+- [ ] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/12-apis)
+- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+
 ## Day 41: August 15, Thursday
 **Today's Progress**: Started node and express section from webdev course and solved some regex challenges.
 
