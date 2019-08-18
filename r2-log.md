@@ -12,6 +12,15 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 44: August 18, Sunday
+**Today's Progress**: Complete a small project newsletter signup & started learning more about templating w/ ejs & a small sandbox project todoList. Continue also solving regex problems.
+
+**Link to work**:
+- [x] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/12-apis)
+- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [x] [Newsletter Signup](https://newsletter-signup-form.herokuapp.com/)
+- [ ] [Todo List-v1](https://genesisgabiola.github.io/sandbox/todolist-v1/)
+
 ## Day 43: August 17, Saturday
 **Today's Progress**: Continue working with apis and started a project making a signup form for my newsletter using mailchimp api. Solving regex problems and more.
 
