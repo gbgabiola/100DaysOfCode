@@ -12,6 +12,14 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 46: August 20, Tuesday
+**Today's Progress**: Completed all the regex challenges in FCC, and the small blog site project. Started learning more about relational & non relational database.
+
+**Link to work**:
+- [x] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [x] [Blog Site](https://github.com/genesisgabiola/blog/)
+- [ ] [Database](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/)
+
 ## Day 45: August 19, Monday
 **Today's Progress**: Completed a small project ToDo List and started a new blog site project, showing my skills using node express w/ ejs templating. Continue to polish my regex skills in FCC.
 
