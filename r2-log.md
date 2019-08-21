@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 47: August 21, Wednesday
+**Today's Progress**: Started the debugging section of FCC and reviewed database concepts especially relational database SQL.
+
+**Link to work**:
+- [x] [Debugging](https://freecodecamp.org/genesisgabiola)
+- [ ] [Database](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/)
+
 ## Day 46: August 20, Tuesday
 **Today's Progress**: Completed all the regex challenges in FCC, and the small blog site project. Started learning more about relational & non relational database.
 
