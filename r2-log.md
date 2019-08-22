@@ -12,11 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 48: August 22, Thursday
+**Today's Progress**: I've worked with my regular coding stuff and solve code debugging problems in FCC.
+
+**Thoughts**: Started and will finish the full stack track on AppAcademyOpen that include sofeng and full stack on ruby and js with extra framework rails & react. I'm also doing the computer programing track of khanacademy.
+
+**Link to work**:
+- [ ] [Debugging](https://freecodecamp.org/genesisgabiola)
+
 ## Day 47: August 21, Wednesday
 **Today's Progress**: Started the debugging section of FCC and reviewed database concepts especially relational database SQL.
 
 **Link to work**:
-- [x] [Debugging](https://freecodecamp.org/genesisgabiola)
+- [ ] [Debugging](https://freecodecamp.org/genesisgabiola)
 - [ ] [Database](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/)
 
 ## Day 46: August 20, Tuesday
