@@ -12,34 +12,40 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 49: August 23, Friday
+**Today's Progress**: I've started to work on some data structure problems in FCC and some some arithmetic in khan.
+
+**Link to work**:
+- [ ] [Data Structure](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/05-basic-data-structures#basic-data-structures)
+
 ## Day 48: August 22, Thursday
 **Today's Progress**: I've worked with my regular coding stuff and solve code debugging problems in FCC.
 
 **Thoughts**: Started and will finish the full stack track on AppAcademyOpen that include sofeng and full stack on ruby and js with extra framework rails & react. I'm also doing the computer programing track of khanacademy.
 
 **Link to work**:
-- [ ] [Debugging](https://freecodecamp.org/genesisgabiola)
+- [x] [Debugging](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/04-debugging#debugging)
 
 ## Day 47: August 21, Wednesday
 **Today's Progress**: Started the debugging section of FCC and reviewed database concepts especially relational database SQL.
 
 **Link to work**:
-- [ ] [Debugging](https://freecodecamp.org/genesisgabiola)
-- [ ] [Database](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/)
+- [ ] [Debugging](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/04-debugging#debugging)
+- [ ] [Database](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/12-database)
 
 ## Day 46: August 20, Tuesday
 **Today's Progress**: Completed all the regex challenges in FCC, and the small blog site project. Started learning more about relational & non relational database.
 
 **Link to work**:
-- [x] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [x] [RegEx](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/03-regular-expression#regular-expressions)
 - [x] [Blog Site](https://github.com/genesisgabiola/blog/)
-- [ ] [Database](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/)
+- [ ] [Database](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/12-database)
 
 ## Day 45: August 19, Monday
 **Today's Progress**: Completed a small project ToDo List and started a new blog site project, showing my skills using node express w/ ejs templating. Continue to polish my regex skills in FCC.
 
 **Link to work**:
-- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [ ] [RegEx](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/03-regular-expression#regular-expressions)
 - [x] ToDoList
 - [ ] [Blog Site](https://github.com/genesisgabiola/blog/)
 
@@ -47,8 +53,8 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Completed a small project newsletter signup & started learning more about templating w/ ejs & a small sandbox project todoList. Continue also solving regex problems.
 
 **Link to work**:
-- [x] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/12-apis)
-- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [x] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/10-apis)
+- [ ] [RegEx](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/03-regular-expression#regular-expressions)
 - [x] [Newsletter Signup](https://newsletter-signup-form.herokuapp.com/)
 - [ ] ToDoList
 
@@ -56,27 +62,27 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Continue working with apis and started a project making a signup form for my newsletter using mailchimp api. Solving regex problems and more.
 
 **Link to work**:
-- [ ] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/12-apis)
-- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [ ] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/10-apis)
+- [ ] [RegEx](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/03-regular-expression#regular-expressions)
 
 ## Day 42: August 16, Friday
 **Today's Progress**: After the concepts of node & express, I continue on comprehensive exploration of apis, combining the concepts I learned to build more complex backend application. Continue solving more regex problems.
 
 **Link to work**:
-- [ ] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/12-apis)
-- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [ ] [APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp/tree/master/10-apis)
+- [ ] [RegEx](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/03-regular-expression#regular-expressions)
 
 ## Day 41: August 15, Thursday
 **Today's Progress**: Started node and express section from webdev course and solved some regex challenges.
 
 **Link to work**:
-- [ ] [RegEx](https://freecodecamp.org/genesisgabiola)
+- [ ] [RegEx](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/03-regular-expression#regular-expressions)
 
 ## Day 40: August 14, Wednesday
 **Today's Progress**: Completed the es6 problems in FCC and the sandbox classic project simon game which is already live on github site.
 
 **Link to work**:
-- [x] [ES6](https://freecodecamp.org/genesisgabiola)
+- [x] [ES6](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/02-es6#introduction-to-the-es6-challenges)
 - [x] [The Simon Game](https://genesisgabiola.github.io/sandbox/simon-game)
 
 ## Day 39: August 13, Tuesday
@@ -85,38 +91,38 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Thoughts**: Making a project using a jQuery is very easy, thinking of using it on my future projects, but when I think about react, I want to learn it already...
 
 **Link to work**:
-- [ ] [ES6](https://freecodecamp.org/genesisgabiola)
+- [ ] [ES6](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/02-es6#introduction-to-the-es6-challenges)
 - [ ] [The Simon Game](https://genesisgabiola.github.io/sandbox/simon-game)
 
 ## Day 38: August 12, Monday
 **Today's Progress**: Deep dive on a higher order functions, callbacks and constructors. Learned the concepts behind the absolute value and negative numbers.
 
 **Link to work**:
-- [ ] [ES6](https://freecodecamp.org/genesisgabiola)
+- [ ] [ES6](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/02-es6#introduction-to-the-es6-challenges)
 
 ## Day 37: August 10, Saturday
 **Today's Progress**: Started the es6 section of FCC and reviewed some manipulation of the DOM from webdev course.
 
 **Link to work**:
-- [ ] [ES6](https://freecodecamp.org/genesisgabiola)
+- [ ] [ES6](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/02-es6#introduction-to-the-es6-challenges)
 
 ## Day 36: August 09, Friday
 **Today's Progress**: Completed all the basic js challenges on FCC & webdev course. Continue doing some drawings & arithmetics.
 
 **Link to work**:
-- [x] [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [x] [Basic JS](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript#introduction-to-javascript)
 
 ## Day 35: August 08, Thursday
 **Today's Progress**: Continue to explore ProcessJS using drawings, colors, shapes and arithmetics. Reviewed and Solved some js problems.
 
 **Link to work**:
-- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [ ] [Basic JS](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript#introduction-to-javascript)
 
 ## Day 34: August 07, Wednesday
 **Today's Progress**: Solved more of js challenges from the webdev course and FCC. Played with arithmetics and also drawings using ProcessingJS library.
 
 **Link to work**:
-- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [ ] [Basic JS](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript#introduction-to-javascript)
 
 ## Day 33: August 06, Tuesday
 **Today's Progress**: To finish the tinderPet project I added a javaScript smooth scrolling for the links. Still reviewing some javaScript challenges.
@@ -125,14 +131,14 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 
 **Link to work**:
 - [x] [tinderPet](https://tinderpet.netlify.com/)
-- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [ ] [Basic JS](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript#introduction-to-javascript)
 
 ## Day 32: August 05, Monday
 **Today's Progress**: Completed the bootstrap section of web dev course, continued doing some js challenges, and building a small project for pets especially dogs.
 
 **Link to work**:
 - [ ] [tinderPet](https://tinderpet.netlify.com/)
-- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [ ] [Basic JS](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript#introduction-to-javascript)
 
 ## Day 31: August 03, Saturday
 **Today's Progress**: Deep dive into a bootstrap, a css front-end framework and building projects while learning it.
@@ -157,13 +163,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 
 **Link to work**:
 - [x] [Tribute Page](https://the-bible.netlify.com)
-- [ ] [Basic JS](https://freecodecamp.org/genesisgabiola)
+- [ ] [Basic JS](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript#introduction-to-javascript)
 
 ## Day 26: July 29, Monday
 **Today's Progress**: Review and Completed the grid section. Fast review and summarized the html concepts.
 
 **Link to work**:
-- [x] [CSS Grid](https://freecodecamp.org/genesisgabiola)
+- [x] [CSS Grid](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/01-responsive-web-design/07-css-grid#css-grid)
 
 ## Day 25: July 28, Sunday
 **Today's Progress**: Deep dive with unix/linux terminal, making scripts to automate the hard work especially on my dev environment.
@@ -177,8 +183,8 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Review and finish the RWD & flex concepts section while completing my dev environment. I customized also my new conhost terminal instead of hyper which I used last year for WSL environment.
 
 **Link to work**:
-- [x] [Responsive Web Design](https://freecodecamp.org/genesisgabiola)
-- [x] [Flexbox](https://freecodecamp.org/genesisgabiola)
+- [x] [Responsive Web Design](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/01-responsive-web-design/05-responsive-web-design-principles#responsive-web-design-principles)
+- [x] [Flexbox](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/01-responsive-web-design/06-css-flexbox#css-flexbox)
 
 ## Day 23: July 26, Friday
 **Today's Progress**: Continue to setup work dev environment with files/folders, main/sub host, editors, extensions, libraries, dependencies, and especially my terminals.
@@ -194,20 +200,20 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 **Today's Progress**: Done with Accessibility section for making a websites more accessible to anyone then review the basics of multimedia like audio & graphics.
 
 **Link to work**:
-- [x] [Accessibility](https://freecodecamp.org/genesisgabiola)
+- [x] [Accessibility](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/01-responsive-web-design/04-applied-accessibility#applied-accessibility)
 
 ## Day 20: July 23, Tuesday
 **Today's Progress**: Completed Modern HTML & CSS From The Beginning (Including Sass) course and a modern portfolio project. Started learning more about accessibility also.
 
 **Link to work**:
 - [x] [Modern Portfolio](https://johndoe-portfolio.netlify.com/)
-- [ ] [Accessibility](https://freecodecamp.org/genesisgabiola)
+- [ ] [Accessibility](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/01-responsive-web-design/04-applied-accessibility#applied-accessibility)
 
 ## Day 19: July 22, Monday
 **Today's Progress**: Focus and completed Applied Visual Design section, worked also with a modern portfolio.
 
 **Link to work**:
-- [x] [Visual Design](https://freecodecamp.org/genesisgabiola)
+- [x] [Visual Design](https://github.com/genesisgabiola/freeCodeCamp-projects/tree/master/01-responsive-web-design/03-applied-visual-design#applied-visual-design)
 - [ ] [Modern Portfolio](https://johndoe-portfolio.netlify.com/)
 
 ## Day 18: July 20, Saturday
