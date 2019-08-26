@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 51: August 26, Monday
+**Today's Progress**: Completed the data structure in FCC and deployed todoApp with cloud database using mongoDB Atlas.
+
+- [x] [Data Structure](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [x] [Deployment](https://github.com/genesisgabiola/the-complete-web-development-bootcamp)
+- [x] [ToDoList](https://makelist.herokuapp.com)
+
 ## Day 50: August 24, Saturday
 **Today's Progress**: Completed the database section on webdev course that includes sql & mongoDB and add a local database on todoList project. Solve more js data structure problems in FCC.
 
