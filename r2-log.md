@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 52: August 27, Tuesday
+**Today's Progress**: Completed the journal blog with mongoDB Atlas database, where I showed node, express, ejs templating, mongoDB and APIs skills set in a small project. Started the basic Algorithms of FCC.
+
+**Link to work**:
+- [x] [Blog Site Upgrade](https://daily-journal-blog.herokuapp.com)
+- [ ] [Basic Algorithm](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 51: August 26, Monday
 **Today's Progress**: Completed the data structure in FCC and deployed todoApp with cloud database using mongoDB Atlas.
 
