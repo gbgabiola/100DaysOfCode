@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 53: August 28, Wednesday
+**Today's Progress**: Done some basic algorithms problems in FCC and builded my own rest-api, that completes the rest-api section in webdev course.
+
+**Link to work**:
+- [ ] [Basic Algorithm](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [x] [Rest APIs](https://github.com/genesisgabiola/the-complete-web-development-bootcamp)
+
 ## Day 52: August 27, Tuesday
 **Today's Progress**: Completed the journal blog with mongoDB Atlas database, where I showed node, express, ejs templating, mongoDB and APIs skills set in a small project. Started the basic Algorithms of FCC.
 
