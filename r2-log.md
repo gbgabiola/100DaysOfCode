@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 54: August 29, Thursday
+**Today's Progress**: Started to deep dive more on authentication & security for websites, and solved some FCCs algorithms.
+
+**Link to work**:
+- [ ] [Basic Algorithm](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Authentication and Security](https://github.com/genesisgabiola/the-complete-web-development-bootcamp)
+
 ## Day 53: August 28, Wednesday
 **Today's Progress**: Done some basic algorithms problems in FCC and builded my own rest-api, that completes the rest-api section in webdev course.
 
