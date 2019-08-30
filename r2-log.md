@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 55: August 30, Friday
+**Today's Progress**: Focus on different levels of encryption and using different packages/libraries to incorporate their code to my projects to minimize the codes I need to write and not to reinvent the wheel.
+
+**Link to work**:
+- [ ] [Basic Algorithm](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Authentication and Security](https://github.com/genesisgabiola/the-complete-web-development-bootcamp)
+
 ## Day 54: August 29, Thursday
 **Today's Progress**: Started to deep dive more on authentication & security for websites, and solved some FCCs algorithms.
 
