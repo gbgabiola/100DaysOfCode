@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 56: August 31, Saturday
+**Today's Progress**: This time I only focus doing my [progress](https://github.com/genesisgabiola/progress) project, that includes my notes, CS/webdev concepts, course, books and everything I'm currently learning.
+
+**Link to work**:
+- [ ] [Basic Algorithm](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Progress](https://github.com/genesisgabiola/progress)
+
 ## Day 55: August 30, Friday
 **Today's Progress**: Focus on different levels of encryption and using different packages/libraries to incorporate their code to my projects to minimize the codes I need to write and not to reinvent the wheel.
 
