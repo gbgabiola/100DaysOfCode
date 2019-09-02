@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 57: September 02, Monday
+**Today's Progress**: Completed the algorithms section in FCC & read some JS articles.
+
+**Link to work**:
+- [x] [Basic Algorithm](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 56: August 31, Saturday
 **Today's Progress**: This time I only focus doing my [progress](https://github.com/genesisgabiola/progress) project, that includes my notes, CS/webdev concepts, course, books and everything I'm currently learning.
 
