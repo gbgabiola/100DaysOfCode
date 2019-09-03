@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 58: September 03, Tuesday
+**Today's Progress**: Review the OOP concept for js, and solved some challenges in FCC.
+
+**Link to work**:
+- [ ] [OOP](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 57: September 02, Monday
 **Today's Progress**: Completed the algorithms section in FCC & read some JS articles.
 
