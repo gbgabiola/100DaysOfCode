@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 59: September 04, Wednesday
+**Today's Progress**: Learned more about the level 5 authentication and security with cookies and sessions using passport module. Continue the OOP section in FCC.
+
+**Link to work**:
+- [ ] [OOP](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Authentication and Security](https://github.com/genesisgabiola/the-complete-web-development-bootcamp)
+
 ## Day 58: September 03, Tuesday
 **Today's Progress**: Review the OOP concept for js, and solved some challenges in FCC.
 
