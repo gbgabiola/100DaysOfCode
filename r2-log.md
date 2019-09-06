@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 61: September 06, Friday
+**Today's Progress**: Done some OOP problems then reviewed all the auth I learned and how the big companies implement it on their own security
+
+**Link to work**:
+- [ ] [OOP](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 60: September 05, Thursday
 **Today's Progress**: Completed the auth & security section, I also implemented the OAuth for Google & Facebook while doing some OOP problems.
 
