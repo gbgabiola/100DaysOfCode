@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 62: September 07, Saturday
+**Today's Progress**: Preparing for tesda NC assessment in webdev IV & programming IV. Done a lot of oop problems today.
+
+**Link to work**:
+- [ ] [OOP](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 61: September 06, Friday
 **Today's Progress**: Done some OOP problems then reviewed all the auth I learned and how the big companies implement it on their own security
 
