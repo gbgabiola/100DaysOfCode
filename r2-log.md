@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 64: September 09, Monday
+**Today's Progress**: Completed OOP section in FCC then organize my github learning repo.
+
+**Link to work**:
+- [x] [OOP](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 63: September 08, Sunday
 **Today's Progress**: Not much coding today, just solved some oop problems in FCC.
 
