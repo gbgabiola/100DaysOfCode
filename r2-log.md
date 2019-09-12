@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 66: September 11, Wednesday
+**Today's Progress**: Reviewed and deep dive more w/ UI design concepts from traditional to modern UI while doing some functional programming problems.
+
+**Link to work**:
+- [ ] [Functional Programming](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [x] [Web Design 101](https://github.com/genesisgabiola/the-complete-web-development-bootcamp)
+
 ## Day 65: September 10, Tuesday
 **Today's Progress**: Played around with node-express dev env & react dev env, then started js functional programming.
 
