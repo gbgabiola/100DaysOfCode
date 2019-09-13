@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 67: September 12, Thursday
+**Today's Progress**: Solved another function programming problems, then organized all my useful browser extensions and curated it into my repo notes.
+
+**Link to work**:
+- [ ] [Functional Programming](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [x] [Browser Extensions](https://github.com/genesisgabiola/notes)
+
 ## Day 66: September 11, Wednesday
 **Today's Progress**: Reviewed and deep dive more w/ UI design concepts from traditional to modern UI while doing some functional programming problems.
 
