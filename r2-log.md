@@ -12,11 +12,19 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 69: September 14, Saturday
+**Today's Progress**: Continue with the fundamental concepts section of modern js course with notes & codes and still doing some functional programming.
+
+**Link to work**:
+- [ ] [Functional Programming](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [JS Fundametals](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
+
 ## Day 68: September 13, Friday
 **Today's Progress**: Started a new course "modern js from the beginning", focusing on vanilla js without frameworks while continuing function programming.
 
 **Link to work**:
 - [ ] [Functional Programming](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [JS Fundametals](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
 
 ## Day 67: September 12, Thursday
 **Today's Progress**: Solved another function programming problems, then organized all my useful browser extensions and curated it into my repo notes.
