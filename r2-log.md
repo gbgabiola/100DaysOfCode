@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 70: September 16, Monday
+**Today's Progress**: Study more the fundamentals deeply especially Arrays including the best practices. Doing another functional programming before I finish all it's topics.
+
+**Link to work**:
+- [ ] [Functional Programming](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [JS Fundametals](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
+
 ## Day 69: September 14, Saturday
 **Today's Progress**: Continue with the fundamental concepts section of modern js course with notes & codes and still doing some functional programming.
 
