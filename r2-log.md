@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 71: September 17, Tuesday
+**Today's Progress**: Completed function programming using JS, and continue with the concepts of objects, since everything in JS are objects because it's OOP.
+
+**Link to work**:
+- [x] [Functional Programming](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [JS Fundametals](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
+
 ## Day 70: September 16, Monday
 **Today's Progress**: Study more the fundamentals deeply especially Arrays including the best practices. Doing another functional programming before I finish all it's topics.
 
