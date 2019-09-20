@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 74: September 20, Friday
+**Today's Progress**: Started the DOM section after learning the fundamentals. Learned different properties of the document, then solve some JS algorithms.
+
+**Link to work**:
+- [ ] [DOM](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 73: September 19, Thursday
 **Today's Progress**: Completed the JS fundamentals and still doing intermediate algorithms.
 
