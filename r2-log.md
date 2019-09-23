@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 77: September 23, Monday
+**Today's Progress**: Continue with the DOM, creating, removing & replacing elements and solved a somehow difficult algorithm.
+
+**Link to work**:
+- [ ] [DOM](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 76: September 22, Sunday
 **Today's Progress**: Not much coding today, but solved an intermediate algorithm.
 
