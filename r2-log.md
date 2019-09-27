@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 81: September 27, Friday
+**Today's Progress**: Started now with a DOM project while solving another intermediate algorithm.
+
+**Link to work**:
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] DOM Project
+
 ## Day 80: September 26, Thursday
 **Today's Progress**: Completed the DOM section and one algorithm, then read more articles about different ways of functions & this keyword.
 
