@@ -12,12 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 83: September 30, Monday
+**Today's Progress**: Just solved the Steamroller intermedate algorithm.
+
+**Link to work**:
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 82: September 28, Saturday
 **Today's Progress**: Just solved an intermedate algorithm in FCC today.
 
 **Link to work**:
 - [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
-- [ ] DOM Project
 
 ## Day 81: September 27, Friday
 **Today's Progress**: Started now with a DOM project while solving another intermediate algorithm.
