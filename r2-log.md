@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 84: October 01, Tuesday
+**Today's Progress**: Add a delete & filter functions on a DOM project, and solved another algorithm in FCC.
+
+**Link to work**:
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [DOM Project](https://genesisgabiola.github.io/sandbox/task-list)
+
 ## Day 83: September 30, Monday
 **Today's Progress**: Just solved the Steamroller intermedate algorithm.
 
