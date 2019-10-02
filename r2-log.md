@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 85: October 02, Wednesday
+**Today's Progress**: Add a localStorage functionality on a DOM project to persist data, and solved "Everything Be True" algorithm.
+
+**Link to work**:
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [x] [DOM Project](https://genesisgabiola.github.io/sandbox/task-list)
+
 ## Day 84: October 01, Tuesday
 **Today's Progress**: Add a delete & filter functions on a DOM project, and solved another algorithm in FCC.
 
