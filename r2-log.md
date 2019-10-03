@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 86: October 03, Thursday
+**Today's Progress**: Completed loan calculator by building the UI, implementing the calculation & error functionality, then add loader & UX. I also worked w/ Arguments Optional algorithm in FCC.
+
+**Link to work**:
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [x] [Loan Calculator](https://genesisgabiola.github.io/sandbox/loan-calculator)
+
 ## Day 85: October 02, Wednesday
 **Today's Progress**: Add a localStorage functionality on a DOM project to persist data, and solved "Everything Be True" algorithm.
 
