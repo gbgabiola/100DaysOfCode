@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 87: October 04, Friday
+**Today's Progress**: Completed number guesser another dom project w/ UI, validation, winning & losing , then worked w/ Make a Person algorithm.
+
+**Link to work**:
+- [ ] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [x] [Number Guesser](https://genesisgabiola.github.io/sandbox/number-guesser)
+
 ## Day 86: October 03, Thursday
 **Today's Progress**: Completed loan calculator by building the UI, implementing the calculation & error functionality, then add loader & UX. I also worked w/ Arguments Optional algorithm in FCC.
 
