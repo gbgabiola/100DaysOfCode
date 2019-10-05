@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 88: October 05, Saturday
+**Today's Progress**: Finished the intermediate algorithm scripting section of FCC.
+
+**Link to work**:
+- [x] [Intermediate Algorithms](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 87: October 04, Friday
 **Today's Progress**: Completed number guesser another dom project w/ UI, validation, winning & losing , then worked w/ Make a Person algorithm.
 
