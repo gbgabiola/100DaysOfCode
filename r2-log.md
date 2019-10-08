@@ -12,11 +12,17 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 90: October 08, Tuesday
+**Today's Progress**: Continued the bootstrap section in FCC and review the fundamentals before going deep in JS OOP.
+
+**Link to work**:
+- [ ] [Bootstrap](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 89: October 07, Monday
 **Today's Progress**: Done some bootstrap challenges in FCC.
 
 **Link to work**:
-- [ ] [Front End Libraries](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Bootstrap](https://github.com/genesisgabiola/freeCodeCamp-projects)
 
 ## Day 88: October 05, Saturday
 **Today's Progress**: Finished the intermediate algorithm scripting section of FCC.
