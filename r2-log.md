@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 91: October 09, Wednesday
+**Today's Progress**: Worked w/ survey form & bootstrap section of FCC.
+
+**Link to work**:
+- [ ] [Bootstrap](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Survey Form](https://genesisgabiola.github.io/survey-form/)
+
 ## Day 90: October 08, Tuesday
 **Today's Progress**: Continued the bootstrap section in FCC and review the fundamentals before going deep in JS OOP.
 
