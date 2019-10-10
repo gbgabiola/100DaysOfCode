@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 92: October 10, Thursday
+**Today's Progress**: Dive w/ OOP concepts i.e., constructors, this keyword, prototypes & prototypal inheritance, then worked w/ some bootstrap challenges.
+
+**Link to work**:
+- [ ] [OOP](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
+- [ ] [Bootstrap](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 91: October 09, Wednesday
 **Today's Progress**: Worked w/ survey form & bootstrap section of FCC.
 
