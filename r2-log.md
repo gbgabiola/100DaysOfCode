@@ -12,6 +12,13 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 93: October 11, Friday
+**Today's Progress**: Completed all the OOP concepts in JS & the syntactic sugar ES6 related to OOP, i.e. classes & sub classes. I also completed the bootstrap section in FCC.
+
+**Link to work**:
+- [x] [OOP](https://github.com/genesisgabiola/modern-javascript-from-the-beginning)
+- [x] [Bootstrap](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 92: October 10, Thursday
 **Today's Progress**: Dive w/ OOP concepts i.e., constructors, this keyword, prototypes & prototypal inheritance, then worked w/ some bootstrap challenges.
 
