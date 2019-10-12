@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 94: October 12, Saturday
+**Today's Progress**: I just started reviewing jQuery did some challenges of it today.
+
+**Link to work**:
+- [ ] [jQUery](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 93: October 11, Friday
 **Today's Progress**: Completed all the OOP concepts in JS & the syntactic sugar ES6 related to OOP, i.e. classes & sub classes. I also completed the bootstrap section in FCC.
 
