@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 95: October 14, Monday
+**Today's Progress**: Continue the jQuery challenges in FCC & read some articles about Advanced JS concepts.
+
+**Link to work**:
+- [ ] [jQUery](https://github.com/genesisgabiola/freeCodeCamp-projects)
+
 ## Day 94: October 12, Saturday
 **Today's Progress**: I just started reviewing jQuery did some challenges of it today.
 
