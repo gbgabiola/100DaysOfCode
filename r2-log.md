@@ -12,6 +12,15 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [July 1, Monday, 2019
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 96-100: October 15, Tuesday
+**Today's Progress**: Completed jQuery section and continue to work on FCC. Work on some projects as well.
+
+**Link to work**:
+- [x] [jQUery](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Algorithms and Data Structures Projects](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Palindrome Checker](https://github.com/genesisgabiola/freeCodeCamp-projects)
+- [ ] [Survey Form](https://genesisgabiola.github.io/survey-form/)
+
 ## Day 95: October 14, Monday
 **Today's Progress**: Continue the jQuery challenges in FCC & read some articles about Advanced JS concepts.
 
