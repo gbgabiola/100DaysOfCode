@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 02: January 21, Tuesday
+**Today's Progress**: Completed a todoApp w/ client/server and mongodDB atlas database.
+
+**Link to work**:
+- [x] [todoApp](https://fullstack-todo-application.herokuapp.com/)
+
 ## Day 01: January 20, Monday
 **Today's Progress**: Started working w/ a todoApp with its client/browser connecting to a server.
 
