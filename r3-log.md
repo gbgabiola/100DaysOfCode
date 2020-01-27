@@ -12,6 +12,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 05: January 24, Friday
+**Today's Progress**: Focus on the concepts of callback, promises and async/await, then hash user password using bcrpytjs.
+
+**Link to work**:
+- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+
 ## Day 04: January 23, Thursday
 **Today's Progress**: Adding validation and cleaning up inputs, then connect the app to the mongodb database and configure its settings.
 
