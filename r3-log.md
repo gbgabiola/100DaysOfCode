@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 3 - Genesis Gabiola
 
-The Round 2 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 2020].
+The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 2020].
 
 <!--
 ## Day 00: Month 00, Whatday
@@ -11,6 +11,12 @@ The Round 2 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Link to work**:
 - [ ] [Sample App](http://www.example.com)
 -->
+
+## Day 06: January 27, Monday
+**Today's Progress**: Restarted my FCC progress, commiting to finish the frontend sections and possibly inluding backend section.
+
+**Link to work**:
+- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
 
 ## Day 05: January 24, Friday
 **Today's Progress**: Focus on the concepts of callback, promises and async/await, then hash user password using bcrpytjs.
