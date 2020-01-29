@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 07: January 28, Tuesday
+**Today's Progress**: Focus on the sessions technology to be able to trust and identify requests, then enable it into the app.
+
+**Link to work**:
+- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+
 ## Day 06: January 27, Monday
 **Today's Progress**: Restarted my FCC progress, commiting to finish the frontend sections and possibly inluding backend section.
 
