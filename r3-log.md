@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 08: January 29, Wednesday
+**Today's Progress**: Cleaning and merging some of my repos, then deleted some which are usually just notes.
+
+**Link to work**:
+- [x] [my repos](https://github.com/genesisgabiola?tab=repositories)
+
 ## Day 07: January 28, Tuesday
 **Today's Progress**: Focus on the sessions technology to be able to trust and identify requests, then enable it into the app.
 
