@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 09: January 30, Thursday
+**Today's Progress**: Setup my development environment w/ NVM Yarn, Git, Docker, RVM and Rails w/ React on my WSL for my incoming fullstack bootcamp.
+
+**Link to work**:
+- [x] [dotfiles](https://github.com/genesisgabiola/dotfiles)
+
 ## Day 08: January 29, Wednesday
 **Today's Progress**: Cleaning and merging some of my repos, then deleted some which are usually just notes.
 
