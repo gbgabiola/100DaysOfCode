@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 10: January 31, Friday
+**Today's Progress**: Learned doing some flash messages using connect-flash package, and applied it in my current app.
+
+**Link to work**:
+- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+
 ## Day 09: January 30, Thursday
 **Today's Progress**: Setup my development environment w/ NVM Yarn, Git, Docker, RVM and Rails w/ React on my WSL for my incoming fullstack bootcamp.
 
