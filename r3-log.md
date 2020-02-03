@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 11: February 01, Saturday
+**Today's Progress**: Started learning the basic fundamentals of Ruby and a little bit of its framework Rails.
+
+**Link to work**:
+- [ ] [rails-blog](https://github.com/genesisgabiola/rails-blog)
+
 ## Day 10: January 31, Friday
 **Today's Progress**: Learned doing some flash messages using connect-flash package, and applied it in my current app.
 
