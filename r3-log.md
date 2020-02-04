@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 12: February 03, Monday
+**Today's Progress**: Update the app to let the users create posts, refactor by removing duplicate codes, then created some partials.
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 11: February 01, Saturday
 **Today's Progress**: Started learning the basic fundamentals of Ruby and a little bit of its framework Rails.
 
@@ -22,7 +28,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Learned doing some flash messages using connect-flash package, and applied it in my current app.
 
 **Link to work**:
-- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
 
 ## Day 09: January 30, Thursday
 **Today's Progress**: Setup my development environment w/ NVM Yarn, Git, Docker, RVM and Rails w/ React on my WSL for my incoming fullstack bootcamp.
@@ -40,7 +46,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Focus on the sessions technology to be able to trust and identify requests, then enable it into the app.
 
 **Link to work**:
-- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
 
 ## Day 06: January 27, Monday
 **Today's Progress**: Restarted my FCC progress, commiting to finish the frontend sections and possibly inluding backend section.
@@ -52,28 +58,28 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Focus on the concepts of callback, promises and async/await, then hash user password using bcrpytjs.
 
 **Link to work**:
-- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
 
 ## Day 04: January 23, Thursday
 **Today's Progress**: Adding validation and cleaning up inputs, then connect the app to the mongodb database and configure its settings.
 
 **Link to work**:
-- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
 
 ## Day 03: January 22, Wednesday
 **Today's Progress**: Started working on a socialApp, following a MVC architecture for an app.
 
 **Link to work**:
-- [ ] [socialApp](https://socialsite-app.herokuapp.com/)
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
 
 ## Day 02: January 21, Tuesday
 **Today's Progress**: Completed a todoApp w/ client/server and mongodDB atlas database.
 
 **Link to work**:
-- [x] [todoApp](https://fullstack-todo-application.herokuapp.com/)
+- [x] [todoApp](https://github.com/genesisgabiola/todo-app)
 
 ## Day 01: January 20, Monday
 **Today's Progress**: Started working w/ a todoApp with its client/browser connecting to a server.
 
 **Link to work**:
-- [ ] [todoApp](https://fullstack-todo-application.herokuapp.com/)
+- [ ] [todoApp](https://github.com/genesisgabiola/todo-app)
