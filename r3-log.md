@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 13: February 04, Tuesday
+**Today's Progress**: Add a static template for post and profile, performs a lookup in the MongoDB, then change the content dynamically by pulling the real data from db to display it to the user
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 12: February 03, Monday
 **Today's Progress**: Update the app to let the users create posts, refactor by removing duplicate codes, then created some partials.
 
