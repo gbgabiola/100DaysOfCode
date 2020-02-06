@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 14: February 05, Wednesday
+**Today's Progress**: Performs complete CRUD, set a flash for failed/success and make it available for all templates. Add markdown feature then sanitize inputs
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 13: February 04, Tuesday
 **Today's Progress**: Add a static template for post and profile, performs a lookup in the MongoDB, then change the content dynamically by pulling the real data from db to display it to the user
 
