@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 15: February 06, Thursday
+**Today's Progress**: Started working on a live search feature, setup webpack & babel for the frontend part, show and hide search overlay.
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 14: February 05, Wednesday
 **Today's Progress**: Performs complete CRUD, set a flash for failed/success and make it available for all templates. Add markdown feature then sanitize inputs
 
