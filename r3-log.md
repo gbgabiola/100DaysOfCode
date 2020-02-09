@@ -13,6 +13,14 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 -->
 
 
+## Day 17: February 08, Saturday
+**Today's Progress**: Worked on a inventory project and focus on a making a model setting gems and their configs then making test cases using Rails.
+
+**Thoughts**: During the fullstack bootcamp we focused on making models in MVC architecture, add rubocop and rspec then setup their configs. Created product, warehouse, stocks then add associations with them. Added an order and order-item model then generate the uuid.
+
+**Link to work**:
+- [ ] [Inventory](https://github.com/genesisgabiola/inventory)
+
 ## Day 16: February 07, Friday
 **Today's Progress**: Respond to a keypress event, searching database, generate HTML for results, and sanitize user generated HTML on the frontend to avoid cross site scripting attack
 
