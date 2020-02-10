@@ -12,6 +12,11 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 18: February 10, Monday
+**Today's Progress**: Refreshed the fundamental concepts of js in FCC. Planned for the upcoming project in FCC.
+
+**Link to work**:
+- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
 
 ## Day 17: February 08, Saturday
 **Today's Progress**: Worked on a inventory project and focus on a making a model setting gems and their configs then making test cases using Rails.
