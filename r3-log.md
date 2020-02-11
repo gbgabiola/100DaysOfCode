@@ -12,8 +12,8 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
-## Day 18: February 10, Monday
-**Today's Progress**: Refreshed the fundamental concepts of js in FCC. Planned for the upcoming project in FCC.
+## Day 18-19: February 10-11, Monday-Tuesday
+**Today's Progress**: Refreshed the fundamental concepts of js in FCC. Planned the upcoming project in FCC starting from RWD.
 
 **Link to work**:
 - [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
