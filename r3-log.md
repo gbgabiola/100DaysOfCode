@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 20: February 12, Wednesday
+**Today's Progress**: Started working on a real-time/live chat feature for my socialApp using socket.io package.
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 18-19: February 10-11, Monday-Tuesday
 **Today's Progress**: Refreshed the fundamental concepts of js in FCC. Planned the upcoming project in FCC starting from RWD.
 
