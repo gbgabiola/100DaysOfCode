@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 22: February 14, Friday
+**Today's Progress**: Completed the chat feature by sanitizing messages using dompurify and made the title tag of the page dynamic
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 21: February 13, Thursday
 **Today's Progress**: Finishing the chat feature with UI/UX & spent a lot using socket. Polished my js conditional/logic skills using js in FCC.
 
