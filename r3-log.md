@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 24: February 17, Monday
+**Today's Progress**: Completed the chat feature by sanitizing messages using dompurify and made the title tag of the page dynamic
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 23: February 15, Saturday
 **Today's Progress**: Add action, method routes & spec for products, webpack dependencies, capybara config, shared flash, and refactor form to partial
 
