@@ -12,6 +12,14 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 25: February 18, Tuesday
+**Today's Progress**: Add client-side live validation primarily to enhance UX, fix the app by adding a csrf security feature
+
+**Thoughts**: Enhance the User Experience (UX) by adding a live validation on the registration form of the front-end side, used Regular Expression instead of validator module for checking characters then prevent default behavior of the browser to satisfy the validation first.
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 24: February 17, Monday
 **Today's Progress**: Completed the chat feature by sanitizing messages using dompurify and made the title tag of the page dynamic
 
