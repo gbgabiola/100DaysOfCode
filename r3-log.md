@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 26: February 19, Wednesday
+**Today's Progress**: Reviewed the FCC's es6 syntax challenge, more on destructuring and rest parameter/operator
+
+**Link to work**:
+- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+
 ## Day 25: February 18, Tuesday
 **Today's Progress**: Add client-side live validation primarily to enhance UX, fix the app by adding a csrf security feature
 
