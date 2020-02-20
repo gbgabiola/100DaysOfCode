@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 27: February 20, Thursday
+**Today's Progress**: Learned more & created API for the socialApp & integrated JWT which is popular because it allows stateless authentication
+
+**Link to work**:
+- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+
 ## Day 26: February 19, Wednesday
 **Today's Progress**: Reviewed the FCC's es6 syntax challenge, more on destructuring and rest parameter/operator
 
