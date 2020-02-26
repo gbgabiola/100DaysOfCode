@@ -12,13 +12,16 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 29: February 24, Monday
+**Today's Progress**: Started a wesbos JS course and update quality code tooling w/ ESLint and Prettier formatter
+
 ## Day 28: February 21, Friday
 **Today's Progress**: Completed the JS full stack course lessons and the social application project, then reviewd some JS Regex
 
 **Thoughts**: I learned a lot from Learn JavaScript Full-Stack from Scratch course, from front-end to backend
 
 **Link to work**:
-- [ ] [socialApp](https://github.com/genesisgabiola/social-app)
+- [x] [socialApp](https://github.com/genesisgabiola/social-app)
 
 ## Day 27: February 20, Thursday
 **Today's Progress**: Learned more & created API for the socialApp & integrated JWT which is popular because it allows stateless authentication
