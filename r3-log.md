@@ -12,6 +12,11 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 30: February 25, Tuesday
+**Today's Progress**: Completed the basics section that includes the fundamentals, then reviewed some debugging concepts in FCC
+
+- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+
 ## Day 29: February 24, Monday
 **Today's Progress**: Started a wesbos JS course and update quality code tooling w/ ESLint and Prettier formatter
 
