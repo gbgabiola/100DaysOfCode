@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 32: February 27, Thursday
+**Today's Progress**: Focused more on different ways to make a function like anonymous, expression, arrow, IIFE, methods, and callback function
+
 ## Day 31: February 26, Wednesday
 **Today's Progress**: Explored built-in functions, practiced custom function and capturing returned value then assigned to a variable
 
