@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 33: February 28, Friday
+**Today's Progress**: Delve into debugging methods and mindset on tackling errors/bugs using browser devTools
+
 ## Day 32: February 27, Thursday
 **Today's Progress**: Focused more on different ways to make a function like anonymous, expression, arrow, IIFE, methods, and callback function
 
