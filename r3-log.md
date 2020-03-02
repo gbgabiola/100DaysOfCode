@@ -12,6 +12,8 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 35: March 02, Monday
+**Today's Progress**: Focused on the tricky concepts of different types of scoping, function/variable hoisting and closures
 
 ## Day 34: February 29, Saturday
 **Today's Progress**: Started learning React and implement it into an inventory project using jsx syntax with Ruby on Rails
