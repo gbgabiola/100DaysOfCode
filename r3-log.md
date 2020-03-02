@@ -12,6 +12,15 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+
+## Day 34: February 29, Saturday
+**Today's Progress**: Started learning React and implement it into an inventory project using jsx syntax with Ruby on Rails
+
+**Thoughts**: During the weeks of learning Ruby and Ruby on Rails in fullstack bootcamp we learned the basics of React while using Ruby on Rails. And now, I'm rying to grasp the concept of Ajax with axios.
+
+**Link to work**:
+- [ ] [Inventory](https://github.com/genesisgabiola/inventory)
+
 ## Day 33: February 28, Friday
 **Today's Progress**: Delve into debugging methods and mindset on tackling errors/bugs using browser devTools
 
