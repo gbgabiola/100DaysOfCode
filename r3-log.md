@@ -12,6 +12,14 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 36-37: March 03-04, Tuesday-Wednesday
+**Today's Progress**: I got stuck upgrading my host with insiders build & development environment using WSL 2, then organizing my dotfiles
+
+**Thoughts**: I've learned a lot about the setup of my current environment, learning new stuff and modern technologies. I'll be organizing my dotfiles
+
+**Link to work**:
+- [x] [dotfiles](https://github.com/genesisgabiola/dotfiles)
+
 ## Day 35: March 02, Monday
 **Today's Progress**: Focused on the tricky concepts of different types of scoping, function/variable hoisting and closures
 
