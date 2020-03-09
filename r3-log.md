@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 38-39: March 05-06, Thursday-Friday
+**Today's Progress**: Solved more algorithms in FCC, and learned how other programmers solve the same problem.
+
+**Link to work**:
+- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+
 ## Day 36-37: March 03-04, Tuesday-Wednesday
 **Today's Progress**: I got stuck upgrading my host with insiders build & development environment using WSL 2, then organizing my dotfiles
 
