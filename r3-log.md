@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 40: March 09, Monday
+**Today's Progress**: Completed a tribute page for Brad Traversy, thanks to florin-pop's guide.
+
+**Link to work**:
+- [x] [Brad Traversy | Tribute Page](https://github.com/genesisgabiola/brad-traversy)
+
 ## Day 38-39: March 05-06, Thursday-Friday
 **Today's Progress**: Solved more algorithms in FCC, and learned how other programmers solve the same problem.
 
