@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 41: March 10, Tuesday
+**Today's Progress**: Working on a survey form, some algorithms in FCC and practicing Ruby on Rails with React.js.
+
 ## Day 40: March 09, Monday
 **Today's Progress**: Completed a tribute page for Brad Traversy, thanks to florin-pop's guide.
 
