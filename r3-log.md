@@ -12,11 +12,17 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 43: March 12, Thursday
+**Today's Progress**: Planned and looked for design inspiration then worked on a product landing page for 3rd FCC RWO projects.
+
+**Link to work**:
+- [ ] [Product Landing Page](https://github.com/genesisgabiola/product-landing-page)
+
 ## Day 42: March 11, Wednesday
 **Today's Progress**: Completed survey form, 2 down for FCC project. Reviewed different elements to complete the form.
 
 **Link to work**:
-- [x] [FCC Survey Form](https://codepen.io/genesisgabiola/full/mdJXoow/)
+- [x] [FCC Survey Form](https://github.com/genesisgabiola/fcc-survey-form)
 
 ## Day 41: March 10, Tuesday
 **Today's Progress**: Working on a survey form, some algorithms in FCC and practicing Ruby on Rails with React.js.
