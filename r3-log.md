@@ -12,11 +12,17 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
-## Day 43: March 12, Thursday
-**Today's Progress**: Planned and looked for design inspiration then worked on a product landing page for 3rd FCC RWO projects.
+## Day 44: March 13, Friday
+**Today's Progress**: Completed UPlayer a product landing page for FCC that uses a little bit of jQuery for Responsive Nav and smooth scrolling
 
 **Link to work**:
-- [ ] [Product Landing Page](https://github.com/genesisgabiola/product-landing-page)
+- [x] [UPlayer](https://github.com/genesisgabiola/uplayer)
+
+## Day 43: March 12, Thursday
+**Today's Progress**: Planned and looked for design inspiration then worked on a product landing page for 3rd FCC RWD projects.
+
+**Link to work**:
+- [ ] [UPlayer](https://github.com/genesisgabiola/uplayer)
 
 ## Day 42: March 11, Wednesday
 **Today's Progress**: Completed survey form, 2 down for FCC project. Reviewed different elements to complete the form.
