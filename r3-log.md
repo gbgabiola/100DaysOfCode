@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 45: March 16, Monday
+**Today's Progress**: Reviewed CSS transform and transitions, JS addEventListener, addClass, and setTimeout for animation without using keyframes
+
 ## Day 44: March 13, Friday
 **Today's Progress**: Completed UPlayer a product landing page for FCC that uses a little bit of jQuery for Responsive Nav and smooth scrolling
 
