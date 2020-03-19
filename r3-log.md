@@ -12,6 +12,11 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 46: March 17, Tuesday
+**Today's Progress**: Completed an skills assessment by building an animation banner using the previous vanilla CSS and JS
+
+- [x] [spotify](https://github.com/genesisgabiola/spotify)
+
 ## Day 45: March 16, Monday
 **Today's Progress**: Reviewed CSS transform and transitions, JS addEventListener, addClass, and setTimeout for animation without using keyframes
 
