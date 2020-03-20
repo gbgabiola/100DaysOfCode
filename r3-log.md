@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 47: March 18, Wednesday
+**Today's Progress**: Learned more about JS OOP concepts in FCC curriculum, supplemented it with MDN & w3school.
+
+**Link to work**:
+- [ ] [FCC](https://github.com/genesisgabiola/fcc-curriculum)
+
 ## Day 46: March 17, Tuesday
 **Today's Progress**: Completed an skills assessment by building an animation banner using the previous vanilla CSS and JS
 
@@ -51,7 +57,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Solved more algorithms in FCC, and learned how other programmers solve the same problem.
 
 **Link to work**:
-- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+- [ ] [FCC](https://github.com/genesisgabiola/fcc-curriculum)
 
 ## Day 36-37: March 03-04, Tuesday-Wednesday
 **Today's Progress**: I got stuck upgrading my host with insiders build & development environment using WSL 2, then organizing my dotfiles
@@ -84,7 +90,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 ## Day 30: February 25, Tuesday
 **Today's Progress**: Completed the basics section that includes the fundamentals, then reviewed some debugging concepts in FCC
 
-- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+- [ ] [FCC](https://github.com/genesisgabiola/fcc-curriculum)
 
 ## Day 29: February 24, Monday
 **Today's Progress**: Started a wesbos JS course and update quality code tooling w/ ESLint and Prettier formatter
@@ -107,7 +113,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Reviewed the FCC's es6 syntax challenge, more on destructuring and rest parameter/operator
 
 **Link to work**:
-- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+- [ ] [FCC](https://github.com/genesisgabiola/fcc-curriculum)
 
 ## Day 25: February 18, Tuesday
 **Today's Progress**: Add client-side live validation primarily to enhance UX, fix the app by adding a csrf security feature
@@ -151,7 +157,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Refreshed the fundamental concepts of js in FCC. Planned the upcoming project in FCC starting from RWD.
 
 **Link to work**:
-- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+- [ ] [FCC](https://github.com/genesisgabiola/fcc-curriculum)
 
 ## Day 17: February 08, Saturday
 **Today's Progress**: Worked on a inventory project and focus on a making a model setting gems and their configs then making test cases using Rails.
@@ -225,7 +231,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Restarted my FCC progress, commiting to finish the frontend sections and possibly inluding backend section.
 
 **Link to work**:
-- [ ] [FCC](https://www.freecodecamp.org/genesisgabiola)
+- [ ] [FCC](https://github.com/genesisgabiola/fcc-curriculum)
 
 ## Day 05: January 24, Friday
 **Today's Progress**: Focus on the concepts of callback, promises and async/await, then hash user password using bcrpytjs.
