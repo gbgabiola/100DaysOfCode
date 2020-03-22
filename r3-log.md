@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 48: March 19, Thursday
+**Today's Progress**: Started and completed the custom progress bar challenge of @florinpop1705, then add a start and reset button.
+
+**Link to work**:
+- [x] [Progress Bar](https://github.com/genesisgabiola/sandbox)
+
 ## Day 47: March 18, Wednesday
 **Today's Progress**: Learned more about JS OOP concepts in FCC curriculum, supplemented it with MDN & w3school.
 
