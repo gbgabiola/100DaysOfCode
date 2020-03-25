@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 49: March 20, Friday
+**Today's Progress**: Completed a technical documentation page challenge with a material UI dark mode design
+
+**Link to work**:
+- [x] [Technical Documentation Page](https://github.com/genesisgabiola/fcc-projects)
+
 ## Day 48: March 19, Thursday
 **Today's Progress**: Started and completed the custom progress bar challenge of @florinpop1705, then add a start and reset button.
 
@@ -36,19 +42,19 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Completed UPlayer a product landing page for FCC that uses a little bit of jQuery for Responsive Nav and smooth scrolling
 
 **Link to work**:
-- [x] [UPlayer](https://github.com/genesisgabiola/uplayer)
+- [x] [Product Landing Page](https://github.com/genesisgabiola/fcc-projects)
 
 ## Day 43: March 12, Thursday
 **Today's Progress**: Planned and looked for design inspiration then worked on a product landing page for 3rd FCC RWD projects.
 
 **Link to work**:
-- [ ] [UPlayer](https://github.com/genesisgabiola/uplayer)
+- [ ] [Product Landing Page](https://github.com/genesisgabiola/fcc-projects)
 
 ## Day 42: March 11, Wednesday
 **Today's Progress**: Completed survey form, 2 down for FCC project. Reviewed different elements to complete the form.
 
 **Link to work**:
-- [x] [FCC Survey Form](https://github.com/genesisgabiola/fcc-survey-form)
+- [x] [Survey Form](https://github.com/genesisgabiola/fcc-projects)
 
 ## Day 41: March 10, Tuesday
 **Today's Progress**: Working on a survey form, some algorithms in FCC and practicing Ruby on Rails with React.js.
@@ -57,7 +63,7 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 **Today's Progress**: Completed a tribute page for Brad Traversy, thanks to florin-pop's guide.
 
 **Link to work**:
-- [x] [Brad Traversy | Tribute Page](https://github.com/genesisgabiola/brad-traversy)
+- [x] [Tribute Page](https://github.com/genesisgabiola/fcc-projects)
 
 ## Day 38-39: March 05-06, Thursday-Friday
 **Today's Progress**: Solved more algorithms in FCC, and learned how other programmers solve the same problem.
