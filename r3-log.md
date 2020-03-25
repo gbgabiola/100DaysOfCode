@@ -12,8 +12,14 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 50: March 23, Monday
+**Today's Progress**: Learned more about styling responsive navigation with dropdown while doing FCC portfolio.
+
+**Link to work**:
+- [ ] [Personal Portfolio Webpage](https://github.com/genesisgabiola/fcc-projects)
+
 ## Day 49: March 20, Friday
-**Today's Progress**: Completed a technical documentation page challenge with a material UI dark mode design
+**Today's Progress**: Completed a technical documentation page challenge with a material UI dark mode design.
 
 **Link to work**:
 - [x] [Technical Documentation Page](https://github.com/genesisgabiola/fcc-projects)
