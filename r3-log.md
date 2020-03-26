@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 51-52: March 24-25, Tuesday-Wednesday
+**Today's Progress**: Completed the FCC portfolio challenge to house all the completed FCC projects.
+
+**Link to work**:
+- [x] [Personal Portfolio Webpage](https://github.com/genesisgabiola/fcc-projects)
+
 ## Day 50: March 23, Monday
 **Today's Progress**: Learned more about styling responsive navigation with dropdown while doing FCC portfolio.
 
