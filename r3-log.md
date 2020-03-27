@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 53: March 26, Thursday
+**Today's Progress**: Finally got my RWD Certificate from @freeCodeCamp curriculum. 1 Down, 5 more to go! Thanks @ossia and @florinpop1705
+
+**Link to work**:
+- [x] [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/genesisgabiola/responsive-web-design)
+
 ## Day 51-52: March 24-25, Tuesday-Wednesday
 **Today's Progress**: Completed the FCC portfolio challenge to house all the completed FCC projects.
 
