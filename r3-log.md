@@ -12,6 +12,13 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 54: March 27, Friday
+**Today's Progress**: Continue w/ functional programming section in FCC, then completed the lessons and exercise in Colt's Code Camp day 4.
+
+**Link to work**:
+- [ ] [FCC](https://github.com/genesisgabiola/fcc-curriculum)
+- [ ] [codecamp](https://github.com/genesisgabiola/codecamp)
+
 ## Day 53: March 26, Thursday
 **Today's Progress**: Finally got my RWD Certificate from @freeCodeCamp curriculum. 1 Down, 5 more to go! Thanks @ossia and @florinpop1705
 
