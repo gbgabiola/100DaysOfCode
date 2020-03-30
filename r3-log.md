@@ -12,6 +12,12 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 55: March 30, Monday
+**Today's Progress**: Started with the first challenge of @frontendmentor, structure is done, added variables, base styles and utility classes
+
+**Link to work**:
+- [ ] [Four Card Featured Section](https://github.com/genesisgabiola/frontend-mentor-challenges)
+
 ## Day 54: March 27, Friday
 **Today's Progress**: Continue w/ functional programming section in FCC, then completed the lessons and exercise in Colt's Code Camp day 4.
 
