@@ -12,6 +12,13 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 57: April 01, Wednesday
+**Today's Progress**: Completed animation frame 1 and 3, added different functions for each animation frame with setTimeout.
+
+
+
+
+
 ## Day 56: March 31, Tuesday
 **Today's Progress**: Worked with animation ads using vanilla html/css/js, extracted images from PSDs.
 
