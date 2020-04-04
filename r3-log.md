@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 59: April 03, Friday
+**Today's Progress**: Fixed the given feedback, re-extracted img, adjusted animation transitions, fixed overlapping text and tested on firefox and IE11
+
 ## Day 58: April 02, Thursday
 **Today's Progress**: Fixed the translate to hide the element then display at certain time, I also implemented a rotateY to make a flipping animation
 
