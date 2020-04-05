@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 60: April 04, Saturday
+**Today's Progress**: Delved into the latest photoshop version and properly exported psd, fixed the manifest elements so it's dynamic, then debug codes to work different browsers.
+
 ## Day 59: April 03, Friday
 **Today's Progress**: Fixed the given feedback, re-extracted img, adjusted animation transitions, fixed overlapping text and tested on firefox and IE11
 
