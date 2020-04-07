@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 62: April 07, Tuesday
+**Today's Progress**: Re-extracted and re-exported img from psd and updated the manifest elements. Completed the frame1 including its animation and currrently working on frame2.
+
 ## Day 61: April 06, Monday
 **Today's Progress**: Worked on another project, reviewed the rules and added the elements to manifest file and extracted and imported some images from psd.
 
