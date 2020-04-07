@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 61: April 06, Monday
+**Today's Progress**: Worked on another project, reviewed the rules and added the elements to manifest file and extracted and imported some images from psd.
+
 ## Day 60: April 04, Saturday
 **Today's Progress**: Delved into the latest photoshop version and properly exported psd, fixed the manifest elements so it's dynamic, then debug codes to work different browsers.
 
