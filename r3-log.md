@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 63: April 08, Wednesday
+**Today's Progress**: Rearranged elements, loaded and positioned all required feeds, add carousel and slide container, then made the clickTag dynamic.
+
 ## Day 62: April 07, Tuesday
 **Today's Progress**: Re-extracted and re-exported img from psd and updated the manifest elements. Completed the frame1 including its animation and currrently working on frame2.
 
