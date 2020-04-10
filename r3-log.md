@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 64: April 09, Thursday
+**Today's Progress**: Worked on a carousel feature with feedload items, made the arrow navs functional with transition effect.
+
 ## Day 63: April 08, Wednesday
 **Today's Progress**: Rearranged elements, loaded and positioned all required feeds, add carousel and slide container, then made the clickTag dynamic.
 
