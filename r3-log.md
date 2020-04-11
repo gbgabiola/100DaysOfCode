@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 65: April 10, Friday
+**Today's Progress**: Worked on autoplay and infinite loop functionality for the carousel, but it's still not working though, worked on toggle also for the frame1.
+
 ## Day 64: April 09, Thursday
 **Today's Progress**: Worked on a carousel feature with feedload items, made the arrow navs functional with transition effect.
 
