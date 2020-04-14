@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 66: April 13, Monday
+**Today's Progress**: frame1 toggle and autoplay functionality for the carousel finally working. Currently working to stop the the carousel to the first product.
+
 ## Day 65: April 10, Friday
 **Today's Progress**: Worked on autoplay and infinite loop functionality for the carousel, but it's still not working though, worked on toggle also for the frame1.
 
