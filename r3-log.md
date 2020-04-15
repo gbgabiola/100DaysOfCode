@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 67: April 14, Tuesday
+**Today's Progress**: Hide arrow navs when there's only one product and added functionality on the carousel to stop on the first product when no interaction from the user.
+
 ## Day 66: April 13, Monday
 **Today's Progress**: frame1 toggle and autoplay functionality for the carousel finally working. Currently working to stop the the carousel to the first product.
 
