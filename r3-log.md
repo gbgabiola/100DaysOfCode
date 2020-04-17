@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 68: April 15, Wednesday
+**Today's Progress**: Worked on fixing the carousel infinite loop, but I can't make it work right now, also worked on text auto-resizer, will be back to it later.
+
 ## Day 67: April 14, Tuesday
 **Today's Progress**: Hide arrow navs when there's only one product and added functionality on the carousel to stop on the first product when no interaction from the user.
 
