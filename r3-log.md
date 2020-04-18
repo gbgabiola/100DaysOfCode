@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 69: April 16, Thursday
+**Today's Progress**: Continued working on carousel slides infinite loop but prev, current and next slides are still buggy.
+
 ## Day 68: April 15, Wednesday
 **Today's Progress**: Worked on fixing the carousel infinite loop, but I can't make it work right now, also worked on text auto-resizer, will be back to it later.
 
