@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 70: April 17, Friday
+**Today's Progress**: I got really stuck on the same problem I'm working on which I can't solve for several days now, I will keep working on it until I solve it.
+
 ## Day 69: April 16, Thursday
 **Today's Progress**: Continued working on carousel slides infinite loop but prev, current and next slides are still buggy.
 
