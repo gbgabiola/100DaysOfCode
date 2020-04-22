@@ -12,8 +12,13 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 72: April 21, Tuesday
+**Today's Progress**: Learned more about creating elements in react, used jsx syntax and some of its tricks.
+
 ## Day 71: April 20, Monday
-**Today's Progress**: Learning React itself without complex tools with @kentcdodds React Course
+**Today's Progress**: Learning React itself without complex tools with @kentcdodds React Course.
+
+**Thoughts**: They informed me stop working already on carousel slides. So I continued learning more about JavaScript and React.
 
 ## Day 70: April 17, Friday
 **Today's Progress**: I got really stuck on the same problem I'm working on which I can't solve for several days now, I will keep working on it until I solve it.
