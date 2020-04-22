@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 71: April 20, Monday
+**Today's Progress**: Learning React itself without complex tools with @kentcdodds React Course
+
 ## Day 70: April 17, Friday
 **Today's Progress**: I got really stuck on the same problem I'm working on which I can't solve for several days now, I will keep working on it until I solve it.
 
