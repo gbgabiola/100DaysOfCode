@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 73: April 22, Wednesday
+**Today's Progress**: Doing a little algorithms in FCC to improve my problem solving skills and thinking with javaScript and react codes
+
 ## Day 72: April 21, Tuesday
 **Today's Progress**: Learned more about creating elements in react, used jsx syntax and some of its tricks.
 
