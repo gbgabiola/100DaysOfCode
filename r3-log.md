@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 75: April 24, Friday
+**Today's Progress**: Tackled element properties, methods, classes, built in and custom data attributes, creating HTML and HTML from Strings.
+
 ## Day 74: April 23, Thursday
 **Today's Progress**: Reviewing and working on the DOM concepts to manipulate and interact with the elements because its one of the important aspects of React ecosystem.
 
