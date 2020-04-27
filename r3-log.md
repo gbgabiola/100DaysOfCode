@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 76: April 25, Saturday
+**Today's Progress**: More practice for traversing and removing nodes in the DOM, and a little cardio coding in the DOM.
+
 ## Day 75: April 24, Friday
 **Today's Progress**: Tackled element properties, methods, classes, built in and custom data attributes, creating HTML and HTML from Strings.
 
