@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 77: April 27, Monday
+**Today's Progress**: Delve into events and event listener, adding and removing them including topics of targets, bubbling, propagation and capture.
+
 ## Day 76: April 25, Saturday
 **Today's Progress**: More practice for traversing and removing nodes in the DOM, and a little cardio coding in the DOM.
 
