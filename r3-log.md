@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 78: April 28, Tuesday
+**Today's Progress**: Not very productive today because I'm not that feeling well, however I still code a little and more on reading documentations and some related articles.
+
 ## Day 77: April 27, Monday
 **Today's Progress**: Delve into events and event listener, adding and removing them including topics of targets, bubbling, propagation and capture.
 
