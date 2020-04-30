@@ -12,6 +12,17 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 80: April 30, Thursday
+**Today's Progress**: 
+
+
+
+
+## Day 79: April 29, Wednesday
+**Today's Progress**: Going through the webdev 101 section of "The Odin Project" because of their Full Stack Ruby on Rails track.
+
+**Thoughts**: I'm switching to "The Odin Project" for the mean time because Ruby on Rails curriculum is their default focus track, which is required for my project.
+
 ## Day 78: April 28, Tuesday
 **Today's Progress**: Not very productive today because I'm not that feeling well, however I still code a little and more on reading documentations and some related articles.
 
