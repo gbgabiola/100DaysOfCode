@@ -13,9 +13,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 -->
 
 ## Day 80: April 30, Thursday
-**Today's Progress**: 
+**Today's Progress**: I came back and continued the curriculum in "App Academy Open", starting from the beginning of the lessons and exercises.
 
-
+**Thoughts**: Switch from "The Odin Project" to "App Academy Open" since both of them focused on Ruby and I already have some progress in the curriculum before.
 
 
 ## Day 79: April 29, Wednesday
