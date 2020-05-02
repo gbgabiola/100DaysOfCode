@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 81: May 01, Friday
+**Today's Progress**: Went through the fundamental concepts of the curriculum's introduction in Ruby, tackled data types, variables, and etc.
+
 ## Day 80: April 30, Thursday
 **Today's Progress**: I came back and continued the curriculum in "App Academy Open", starting from the beginning of the lessons and exercises.
 
