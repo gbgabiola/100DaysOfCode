@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 82: May 02, Saturday
+**Today's Progress**: Learning more about methods in Ruby, defining and calling it w/ or w/o parameters/arguments, then returning the data that can be used by users.
+
 ## Day 81: May 01, Friday
 **Today's Progress**: Went through the fundamental concepts of the curriculum's introduction in Ruby, tackled data types, variables, and etc.
 
