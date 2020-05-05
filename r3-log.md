@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 83: May 04, Monday
+**Today's Progress**: Diving more about conditional statements, using Boolean expressions, breaking problems into smaller chunks and solving it in a readable code.
+
 ## Day 82: May 02, Saturday
 **Today's Progress**: Learning more about methods in Ruby, defining and calling it w/ or w/o parameters/arguments, then returning the data that can be used by users.
 
