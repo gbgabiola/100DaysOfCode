@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 84: May 05, Tuesday
+**Today's Progress**: Solving more problems with while loops in Ruby, leveraging the conditional statements inside it that evaluates to a Boolean value.
+
 ## Day 83: May 04, Monday
 **Today's Progress**: Diving more about conditional statements, using Boolean expressions, breaking problems into smaller chunks and solving it in a readable code.
 
