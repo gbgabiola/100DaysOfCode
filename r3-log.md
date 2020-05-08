@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 86: May 07, Thursday
+**Today's Progress**: Learned more about the different methods that can be used to manipulate data structures, lots of them are very useful and some are just good to know.
+
 ## Day 85: May 06, Wednesday
 **Today's Progress**: Working on array data structure that can store multiple other data types, and solved problems combined with loops and conditional statements.
 
