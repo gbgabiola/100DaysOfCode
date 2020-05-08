@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 85: May 06, Wednesday
+**Today's Progress**: Working on array data structure that can store multiple other data types, and solved problems combined with loops and conditional statements.
+
 ## Day 84: May 05, Tuesday
 **Today's Progress**: Solving more problems with while loops in Ruby, leveraging the conditional statements inside it that evaluates to a Boolean value.
 
