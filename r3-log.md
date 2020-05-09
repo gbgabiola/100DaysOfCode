@@ -12,6 +12,10 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+
+## Day 87: May 08, Friday
+**Today's Progress**: Solving more problems using the fundamental concepts, and applying the newly learned built-in methods and creating a custom methods.
+
 ## Day 86: May 07, Thursday
 **Today's Progress**: Learned more about the different methods that can be used to manipulate data structures, lots of them are very useful and some are just good to know.
 
