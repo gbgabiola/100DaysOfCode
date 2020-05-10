@@ -12,6 +12,8 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 88: May 09, Saturday
+**Today's Progress**: Playing around with nesting loops, 2D arrays, and learned more about the logic behind of some problems.
 
 ## Day 87: May 08, Friday
 **Today's Progress**: Solving more problems using the fundamental concepts, and applying the newly learned built-in methods and creating a custom methods.
