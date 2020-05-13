@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 90: May 12, Tuesday
+**Today's Progress**: Learning more about hash, how it differs from array, and why use it for collection of properties of one thing.
+
 ## Day 89: May 11, Monday
 **Today's Progress**: Learned the Ruby's hash which is like objects in different Programming languages, it uses the concepts of key value pairs.
 
