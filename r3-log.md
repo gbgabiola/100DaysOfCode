@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 91: May 13, Wednesday
+**Today's Progress**: Solving more problems with data structure hash and arrays, combined with different data types and other fundamental concepts.
+
 ## Day 90: May 12, Tuesday
 **Today's Progress**: Learning more about hash, how it differs from array, and why use it for collection of properties of one thing.
 
