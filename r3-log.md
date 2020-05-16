@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 92: May 14, Thursday
+**Today's Progress**: Completed all the Ruby's hashes problems and exercises that includes combination of arrays data structure.
+
 ## Day 91: May 13, Wednesday
 **Today's Progress**: Solving more problems with data structure hash and arrays, combined with different data types and other fundamental concepts.
 
