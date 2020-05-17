@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 93: May 15, Friday
+**Today's Progress**: Learning more about advanced Ruby methods like map and select, and solved advanced problems.
+
 ## Day 92: May 14, Thursday
 **Today's Progress**: Completed all the Ruby's hashes problems and exercises that includes combination of arrays data structure.
 
