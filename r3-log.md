@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 94: May 18, Monday
+**Today's Progress**: Learning more about the foundational principles of computational thinking and stages of communicating with computers.
+
 ## Day 93: May 15, Friday
 **Today's Progress**: Learning more about advanced Ruby methods like map and select, and solved advanced problems.
 
