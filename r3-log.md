@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 96: May 20, Wednesday
+**Today's Progress**: After reading Chris Blakely's react-ready javaScript book, I continued by reading his React project based guide in freeCodeCamp.
+
 ## Day 95: May 19, Tuesday
 **Today's Progress**: Read Chris Blakely's react-ready javaScript book, a very concise, straightforward and easy to understand guide which I recommend to anyone who wants to start learning React library.
 
