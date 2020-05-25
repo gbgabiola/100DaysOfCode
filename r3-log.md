@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 98: May 22, Friday
+**Today's Progress**: Started software engineering's curriculum after getting the Ruby's fundamental concepts.
+
 ## Day 97: May 21, Thursday
 **Today's Progress**: Getting my hands dirty with the react project based article guide after reading the react-ready javaScript and the article.
 
