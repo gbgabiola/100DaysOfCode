@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 99: May 25, Monday
+**Today's Progress**: Learning more about the uniquely readable and expressive programming language side of Ruby, like classic and other enumerables, and best practices.
+
 ## Day 98: May 22, Friday
 **Today's Progress**: Started software engineering's curriculum after getting the Ruby's fundamental concepts.
 
