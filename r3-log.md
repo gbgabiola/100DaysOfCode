@@ -12,6 +12,9 @@ The Round 3 log of my #100DaysOfCode challenge. Started on [January 20, Monday, 
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 100: May 26, Tuesday
+**Today's Progress**: Diving into more advanced concepts of Ruby which includes symbols, default arguments, option hashes & splat operator.
+
 ## Day 99: May 25, Monday
 **Today's Progress**: Learning more about the uniquely readable and expressive programming language side of Ruby, like classic and other enumerables, and best practices.
 
