@@ -1,17 +1,17 @@
 # I've joined the #100DaysOfCode Challenge
 
-| Log 1 (Days 1-100) | Log 2 (Days 101-200) | Log 3 (Days 201-300) | Log 4 (Days 301-400) |
-| --- | --- | --- | --- |
-| [100 Days Round 1](r1-log.md) | [100 Days Round 2](r2-log.md) | [100 Days Round 3](r3-log.md) | soon |
+| Log 1 (Days 1-100)            | Log 2 (Days 101-200)          | Log 3 (Days 201-300)          | Log 4 (Days 301-400)          | Log 5 (Days 401-500) |
+| ----------------------------- | ----------------------------- | ----------------------------- | ----------------------------- | -------------------- |
+| [100 Days Round 1](r1-log.md) | [100 Days Round 2](r2-log.md) | [100 Days Round 3](r3-log.md) | [100 Days Round 4](r4-log.md) | soon                 |
 
 ## Challenge & Commitment
 Credits to Alexander Kallaway as he created this [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the 100daysOfCode can be found [here](http://100daysofcode.com/ "100daysofcode.com").
 
 **Commitment:** _I will code daily not just for 100 days.*_
 
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-| June 01, 2018 | --- |
+| Start Date    | End Date |
+| ------------- | -------- |
+| June 01, 2018 | ---      |
 
 ## Contents
 
