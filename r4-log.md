@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 03: June 03, Wednesday
+**Today's Progress**: Completed level 1 which has designing algorithms/programs and plan application modules, learned more also about analytics competencies.
+
 ## Day 02: June 02, Tuesday
 **Today's Progress**: Completed the intro & main concepts of programming languages in the jsbootcamp, solved some edabit challenges, completed the week1 of analytics.
 
