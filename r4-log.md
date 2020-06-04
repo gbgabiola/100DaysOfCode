@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 04: June 04, Thursday
+**Today's Progress**: Continue with the web platform ecosystem, and professional maturity model in analytics.
+
 ## Day 03: June 03, Wednesday
 **Today's Progress**: Completed level 1 which has designing algorithms/programs and plan application modules, learned more also about analytics competencies.
 
