@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 05: June 05, Friday
+**Today's Progress**: Dive a little bit on some networking concepts to understand more how to use the protocols and the process of the web/app behind the scenes.
+
 ## Day 04: June 04, Thursday
 **Today's Progress**: Continue with the web platform ecosystem, and professional maturity model in analytics.
 
