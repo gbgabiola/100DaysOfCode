@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 06: June 06, Saturday
+**Today's Progress**: Learned more about RFC, IP, TCP, HTTP'S/2 and Websockets, almost all networking topic related to dev.
+
 ## Day 05: June 05, Friday
 **Today's Progress**: Dive a little bit on some networking concepts to understand more how to use the protocols and the process of the web/app behind the scenes.
 
