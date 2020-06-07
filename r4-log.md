@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 07: June 07, Sunday
+**Today's Progress**: Completed the networking module, continuing the web foundation level, and starting the HTML module of the jsbootcamp course.
+
 ## Day 06: June 06, Saturday
 **Today's Progress**: Learned more about RFC, IP, TCP, HTTP'S/2 and Websockets, almost all networking topic related to dev.
 
