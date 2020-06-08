@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 08: June 08, Monday
+**Today's Progress**: Continued with the HTML part and exercises, completed also the industry standard, delta+ model and analytical maturity stages in analytics.
+
 ## Day 07: June 07, Sunday
 **Today's Progress**: Completed the networking module, continuing the web foundation level, and starting the HTML module of the jsbootcamp course.
 
