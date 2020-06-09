@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 09: June 09, Tuesday
+**Today's Progress**: Learned more about meta tags and other information, including tables and it's related tags, and other tags.
+
 ## Day 08: June 08, Monday
 **Today's Progress**: Continued with the HTML part and exercises, completed also the industry standard, delta+ model and analytical maturity stages in analytics.
 
