@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 10: June 10, Wednesday
+**Today's Progress**: Practice using tables for HTML emails, leverage the use of different tags related to tables.
+
 ## Day 09: June 09, Tuesday
 **Today's Progress**: Learned more about meta tags and other information, including tables and it's related tags, and other tags.
 
