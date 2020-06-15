@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 11: June 11, Thursday
+**Today's Progress**: Started with the basics of CSS in the jsbootcamp, from history, rules and selectors.
+
 ## Day 10: June 10, Wednesday
 **Today's Progress**: Practice using tables for HTML emails, leverage the use of different tags related to tables.
 
