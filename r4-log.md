@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 13: June 15, Monday
+**Today's Progress**: Started the Understanding Technology course by the cs50, before starting the CS introduction of cs50.
+
 ## Day 12: June 12, Friday
 **Today's Progress**: Continue with the different features of CSS, like specificity, inheritance and different types of selectors.
 
