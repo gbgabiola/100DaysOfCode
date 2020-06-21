@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 15: June 17, Wednesday
+**Today's Progress**: Dive a little deeper with security that includes privacy, cookies, authentication, 2FA, network security, vpn, firewall, cryptography, phishing, malware and trust.
+
 ## Day 14: June 16, Tuesday
 **Today's Progress**: Learned the behind the scene of the audio, graphics, rgb, images, video, their formats, compression and enhance.
 
