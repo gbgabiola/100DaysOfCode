@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 14: June 16, Tuesday
+**Today's Progress**: Learned the behind the scene of the audio, graphics, rgb, images, video, their formats, compression and enhance.
+
 ## Day 13: June 15, Monday
 **Today's Progress**: Started the Understanding Technology course by the cs50, before starting the CS introduction of cs50.
 
