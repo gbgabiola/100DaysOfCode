@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 16: June 18, Thursday
+**Today's Progress**: Started webdev section which includes, browser, server, HTTP, status codes, HTML, code editor and CSS.
+
 ## Day 15: June 17, Wednesday
 **Today's Progress**: Dive a little deeper with security that includes privacy, cookies, authentication, 2FA, network security, vpn, firewall, cryptography, phishing, malware and trust.
 
