@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 17: June 19, Friday
+**Today's Progress**: Completed the programming section with Scratch programming environment on a graphical manner.
+
 ## Day 16: June 18, Thursday
 **Today's Progress**: Started webdev section which includes, browser, server, HTTP, status codes, HTML, code editor and CSS.
 
