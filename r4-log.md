@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 19: June 23, Tuesday
+**Today's Progress**: Continued to review values, variables with let/const/var, different types and expressions.
+
 ## Day 18: June 22, Monday
 **Today's Progress**: Review the js basics, just js itself without the browser/Node environment, to prevent confusing myself with libraries/frameworks in the future.
 
