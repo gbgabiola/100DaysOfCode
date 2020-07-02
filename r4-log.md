@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 22: June 25, Friday
+**Today's Progress**: Tackled different ways to define JS functions and learned more about them deeply, includes function declaration/expression and arrow functions.
+
 ## Day 21: June 25, Thursday
 **Today's Progress**: Delved a little further with js primitive types which includes numbers, strings, booleans, null and undefined.
 
