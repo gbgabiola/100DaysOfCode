@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 21: June 25, Thursday
+**Today's Progress**: Delved a little further with js primitive types which includes numbers, strings, booleans, null and undefined.
+
 ## Day 20: June 24, Wednesday
 **Today's Progress**: Completed the basic section with different types of operators like arithmetic and comparison operators, applying precendence rules and conditional statements.
 
