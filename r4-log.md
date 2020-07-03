@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 23: June 28, Monday
+**Today's Progress**: Learned more about the features that functions and arrow functions has, like default params, return keyword, nesting and recursion.
+
 ## Day 22: June 25, Friday
 **Today's Progress**: Tackled different ways to define JS functions and learned more about them deeply, includes function declaration/expression and arrow functions.
 
