@@ -12,10 +12,13 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
-## Day 23: June 28, Monday
+## Day 24: June 30, Tuesday
+**Today's Progress**: Started JS OOP, creating, accessing, adding, updating and deleting properties using dot and bracket notation.
+
+## Day 23: June 29, Monday
 **Today's Progress**: Learned more about the features that functions and arrow functions has, like default params, return keyword, nesting and recursion.
 
-## Day 22: June 25, Friday
+## Day 22: June 26, Friday
 **Today's Progress**: Tackled different ways to define JS functions and learned more about them deeply, includes function declaration/expression and arrow functions.
 
 ## Day 21: June 25, Thursday
