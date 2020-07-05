@@ -12,6 +12,9 @@ The Round 4 log of my #100DaysOfCode challenge. Started on [June 01, Monday, 202
 - [ ] [Sample App](http://www.example.com)
 -->
 
+## Day 25: July 01, Wednesday
+**Today's Progress**: Took another step in OOP, JS is not a class-based language, but can still use class keyword which is just syntactic sugar on top of the prototype-based model.
+
 ## Day 24: June 30, Tuesday
 **Today's Progress**: Started JS OOP, creating, accessing, adding, updating and deleting properties using dot and bracket notation.
 
